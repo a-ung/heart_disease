@@ -1,0 +1,1171 @@
+disease_category,age_group,state,gender,changepoint_year,slope1,slope2,change_in_slope,slope2_p_value,significance_label,mean_rate_last_5y,n_years_used,first_year
+ischemic,85+ years,District of Columbia,Male,2003,0.0841662,-0.4131545,-0.4973207,0.0000000,significant_decrease,4.63889519,27,1999
+ischemic,85+ years,Alaska,Male,2021,-0.1172619,-0.3946989,-0.2774369,0.1364232,no_significant_change,3.981406622,27,1999
+ischemic,85+ years,District of Columbia,Total,2003,-0.0478909,-0.3794302,-0.3315393,0.0000000,significant_decrease,3.58338844,27,1999
+ischemic,85+ years,New York,Female,2013,-0.5688200,-0.3048793,0.2639407,0.0000000,significant_decrease,5.659978429,27,1999
+ischemic,85+ years,New York,Total,2013,-0.5625105,-0.2906431,0.2718674,0.0000000,significant_decrease,6.314790002,27,1999
+ischemic,85+ years,New Jersey,Male,2011,-0.4654733,-0.2898131,0.1756602,0.0000000,significant_decrease,5.801130442,27,1999
+ischemic,85+ years,New York,Male,2013,-0.5664939,-0.2741141,0.2923799,0.0000000,significant_decrease,7.542867937,27,1999
+ischemic,85+ years,New Jersey,Total,2009,-0.5616342,-0.2716503,0.2899838,0.0000000,significant_decrease,4.769626813,27,1999
+ischemic,85+ years,New Jersey,Female,2009,-0.6010349,-0.2626964,0.3383386,0.0000000,significant_decrease,4.214372993,27,1999
+ischemic,85+ years,Delaware,Female,2009,-0.5447068,-0.2315592,0.3131476,0.0000000,significant_decrease,4.37401857,27,1999
+ischemic,85+ years,District of Columbia,Female,2017,-0.3915970,-0.2299792,0.1616178,0.0029982,significant_decrease,3.031137079,27,1999
+ischemic,85+ years,Connecticut,Male,2007,-0.5114785,-0.2265897,0.2848888,0.0000000,significant_decrease,4.499553122,27,1999
+ischemic,85+ years,Connecticut,Total,2007,-0.5164530,-0.2122697,0.3041833,0.0000000,significant_decrease,3.519797448,27,1999
+ischemic,85+ years,California,Male,2010,-0.5636409,-0.2101146,0.3535263,0.0000000,significant_decrease,5.966963311,27,1999
+ischemic,85+ years,Illinois,Male,2010,-0.5302974,-0.2055715,0.3247260,0.0000000,significant_decrease,5.221218508,27,1999
+ischemic,85+ years,Pennsylvania,Female,2009,-0.5101750,-0.2052084,0.3049666,0.0000000,significant_decrease,3.95839038,27,1999
+ischemic,85+ years,Maryland,Total,2011,-0.4347261,-0.2035651,0.2311610,0.0000000,significant_decrease,4.694563366,27,1999
+ischemic,85+ years,Illinois,Female,2010,-0.5080359,-0.2035554,0.3044805,0.0000000,significant_decrease,3.212985573,27,1999
+ischemic,85+ years,Rhode Island,Female,2013,-0.5502590,-0.2030649,0.3471941,0.0000107,significant_decrease,5.055437845,27,1999
+ischemic,85+ years,Maryland,Male,2011,-0.4174822,-0.2021183,0.2153639,0.0000000,significant_decrease,6.105496708,27,1999
+ischemic,85+ years,Connecticut,Female,2008,-0.4994797,-0.2020448,0.2974349,0.0000000,significant_decrease,2.991239996,27,1999
+ischemic,85+ years,California,Female,2010,-0.6170122,-0.1999424,0.4170699,0.0000000,significant_decrease,3.986173377,27,1999
+ischemic,85+ years,Maryland,Female,2012,-0.4371375,-0.1997024,0.2374351,0.0000000,significant_decrease,3.934231444,27,1999
+ischemic,85+ years,California,Total,2010,-0.5925770,-0.1997012,0.3928758,0.0000000,significant_decrease,4.730243094,27,1999
+ischemic,85+ years,Illinois,Total,2010,-0.5066391,-0.1984990,0.3081401,0.0000000,significant_decrease,3.911991177,27,1999
+ischemic,85+ years,Pennsylvania,Total,2009,-0.4909832,-0.1945938,0.2963894,0.0000000,significant_decrease,4.832752223,27,1999
+ischemic,85+ years,Pennsylvania,Male,2009,-0.4744958,-0.1903379,0.2841578,0.0000000,significant_decrease,6.508268279,27,1999
+ischemic,85+ years,Oklahoma,Female,2011,-0.5038058,-0.1889545,0.3148513,0.0000005,significant_decrease,5.392114655,27,1999
+ischemic,85+ years,Delaware,Total,2010,-0.5023799,-0.1848524,0.3175276,0.0000008,significant_decrease,5.435905708,27,1999
+ischemic,85+ years,Massachusetts,Male,2006,-0.3809659,-0.1838534,0.1971124,0.0000000,significant_decrease,5.242596887,27,1999
+ischemic,85+ years,Rhode Island,Total,2013,-0.5327714,-0.1708745,0.3618969,0.0000200,significant_decrease,6.054062832,27,1999
+ischemic,85+ years,Iowa,Female,2014,-0.3816664,-0.1688712,0.2127952,0.0000001,significant_decrease,4.146296063,27,1999
+ischemic,85+ years,Iowa,Male,2011,-0.3958431,-0.1636642,0.2321789,0.0000000,significant_decrease,7.604876676,27,1999
+ischemic,85+ years,South Dakota,Female,2016,-0.2880389,-0.1566681,0.1313708,0.0000996,significant_decrease,3.8242263,27,1999
+ischemic,85+ years,New Hampshire,Female,2009,-0.6837744,-0.1549401,0.5288343,0.0000001,significant_decrease,3.755791891,27,1999
+ischemic,85+ years,Indiana,Female,2009,-0.4494319,-0.1548388,0.2945931,0.0000000,significant_decrease,3.835712612,27,1999
+ischemic,85+ years,New Hampshire,Total,2009,-0.6441257,-0.1546216,0.4895041,0.0000000,significant_decrease,4.616384005,27,1999
+ischemic,85+ years,Massachusetts,Total,2012,-0.3033881,-0.1520496,0.1513385,0.0000000,significant_decrease,3.776776659,27,1999
+ischemic,85+ years,Iowa,Total,2014,-0.3624856,-0.1493159,0.2131697,0.0000004,significant_decrease,5.335060965,27,1999
+ischemic,85+ years,Massachusetts,Female,2013,-0.3144285,-0.1486367,0.1657919,0.0000000,significant_decrease,3.009883443,27,1999
+ischemic,85+ years,Rhode Island,Male,2011,-0.5816055,-0.1457376,0.4358679,0.0002362,significant_decrease,8.123639473,27,1999
+ischemic,85+ years,Ohio,Female,2012,-0.4492068,-0.1418592,0.3073476,0.0000000,significant_decrease,4.415045854,27,1999
+ischemic,85+ years,New Hampshire,Male,2011,-0.5339127,-0.1413085,0.3926042,0.0000500,significant_decrease,6.152022935,27,1999
+ischemic,85+ years,Missouri,Female,2014,-0.4735189,-0.1384484,0.3350705,0.0000000,significant_decrease,4.03933136,27,1999
+ischemic,85+ years,South Dakota,Total,2016,-0.2646890,-0.1367585,0.1279304,0.0000577,significant_decrease,5.203095697,27,1999
+ischemic,85+ years,Florida,Total,2011,-0.5644152,-0.1343698,0.4300454,0.0000000,significant_decrease,5.08757254,27,1999
+ischemic,85+ years,Florida,Male,2012,-0.5164392,-0.1343466,0.3820926,0.0000000,significant_decrease,6.129331058,27,1999
+ischemic,85+ years,Indiana,Total,2009,-0.4508825,-0.1323050,0.3185775,0.0000000,significant_decrease,4.824517934,27,1999
+ischemic,85+ years,Florida,Female,2011,-0.5853439,-0.1321691,0.4531748,0.0000000,significant_decrease,4.367831867,27,1999
+ischemic,85+ years,North Carolina,Female,2011,-0.4252012,-0.1261779,0.2990233,0.0000000,significant_decrease,3.357122875,27,1999
+ischemic,85+ years,Ohio,Total,2012,-0.4429550,-0.1257468,0.3172082,0.0000000,significant_decrease,5.375629069,27,1999
+ischemic,85+ years,Arizona,Male,2014,-0.3307929,-0.1251733,0.2056196,0.0000589,significant_decrease,5.929395095,27,1999
+ischemic,85+ years,West Virginia,Male,2011,-0.5088950,-0.1238284,0.3850665,0.0009279,significant_decrease,7.126510222,27,1999
+ischemic,85+ years,Arkansas,Female,2014,-0.2703995,-0.1235301,0.1468694,0.0002471,significant_decrease,4.798201726,27,1999
+ischemic,85+ years,North Carolina,Male,2011,-0.4242207,-0.1226593,0.3015614,0.0000000,significant_decrease,5.549900039,27,1999
+ischemic,85+ years,Missouri,Total,2014,-0.4662947,-0.1185373,0.3477573,0.0000000,significant_decrease,4.918982189,27,1999
+ischemic,85+ years,South Carolina,Total,2007,-0.4593242,-0.1179703,0.3413539,0.0000000,significant_decrease,3.900889334,27,1999
+ischemic,85+ years,North Dakota,Female,2017,-0.2930878,-0.1178384,0.1752494,0.0102322,significant_decrease,3.120043461,27,1999
+ischemic,85+ years,South Carolina,Female,2007,-0.4699852,-0.1176243,0.3523609,0.0000000,significant_decrease,3.140087769,27,1999
+ischemic,85+ years,North Carolina,Total,2011,-0.4155441,-0.1161749,0.2993691,0.0000000,significant_decrease,4.136187528,27,1999
+ischemic,85+ years,West Virginia,Total,2010,-0.5168747,-0.1125340,0.4043407,0.0000107,significant_decrease,6.043001142,27,1999
+ischemic,85+ years,Wyoming,Male,2006,-0.5864309,-0.1125150,0.4739159,0.0009126,significant_decrease,5.335278034,27,1999
+ischemic,85+ years,Ohio,Male,2012,-0.4636130,-0.1108572,0.3527558,0.0000013,significant_decrease,7.168054772,27,1999
+ischemic,85+ years,West Virginia,Female,2010,-0.5231179,-0.1102138,0.4129041,0.0000379,significant_decrease,5.398203762,27,1999
+ischemic,85+ years,Texas,Female,2011,-0.5346270,-0.1086937,0.4259333,0.0000000,significant_decrease,3.825438891,27,1999
+ischemic,85+ years,Indiana,Male,2009,-0.4827898,-0.1076645,0.3751253,0.0000010,significant_decrease,6.699025267,27,1999
+ischemic,85+ years,Alaska,Total,2006,-0.1557613,-0.1075112,0.0482501,0.0000932,significant_decrease,2.84161642,27,1999
+ischemic,85+ years,Arizona,Total,2014,-0.3159254,-0.1053950,0.2105304,0.0000334,significant_decrease,4.931420793,27,1999
+ischemic,85+ years,North Dakota,Total,2016,-0.3147866,-0.1035427,0.2112439,0.0003100,significant_decrease,4.140948573,27,1999
+ischemic,75-84 years,New Jersey,Male,2008,-0.2456204,-0.1030633,0.1425572,0.0000000,significant_decrease,1.68404121,27,1999
+ischemic,85+ years,Georgia,Male,2011,-0.4031684,-0.1016991,0.3014693,0.0000000,significant_decrease,4.360618829,27,1999
+ischemic,85+ years,Idaho,Female,2009,-0.3409529,-0.1001648,0.2407880,0.0000004,significant_decrease,3.369615572,27,1999
+ischemic,85+ years,Colorado,Female,2011,-0.3137565,-0.0997848,0.2139718,0.0000000,significant_decrease,2.766970852,27,1999
+ischemic,85+ years,Missouri,Male,2014,-0.4799552,-0.0981279,0.3818274,0.0001223,significant_decrease,6.505173862,27,1999
+ischemic,85+ years,Texas,Total,2011,-0.5265024,-0.0976763,0.4288261,0.0000000,significant_decrease,4.623576085,27,1999
+ischemic,85+ years,Virginia,Female,2011,-0.3506651,-0.0969894,0.2536756,0.0000001,significant_decrease,3.538758924,27,1999
+ischemic,85+ years,Idaho,Male,2008,-0.4358012,-0.0945641,0.3412371,0.0004883,significant_decrease,6.257283644,27,1999
+ischemic,85+ years,Wyoming,Total,2007,-0.4311103,-0.0944475,0.3366628,0.0000037,significant_decrease,3.965512023,27,1999
+ischemic,85+ years,Colorado,Male,2011,-0.2938016,-0.0939855,0.1998160,0.0001196,significant_decrease,5.156038842,27,1999
+ischemic,85+ years,Texas,Male,2011,-0.5391223,-0.0938058,0.4453165,0.0000047,significant_decrease,5.989572399,27,1999
+ischemic,85+ years,Georgia,Female,2011,-0.3737148,-0.0918773,0.2818375,0.0000000,significant_decrease,2.754057935,27,1999
+ischemic,85+ years,Arkansas,Total,2014,-0.2821806,-0.0910142,0.1911664,0.0063939,significant_decrease,5.58740746,27,1999
+ischemic,75-84 years,Rhode Island,Male,2011,-0.1976895,-0.0908031,0.1068864,0.0000000,significant_decrease,2.075254418,27,1999
+ischemic,85+ years,Colorado,Total,2011,-0.2994271,-0.0903147,0.2091124,0.0000000,significant_decrease,3.659555697,27,1999
+ischemic,75-84 years,New York,Male,2011,-0.2352616,-0.0891759,0.1460857,0.0000000,significant_decrease,2.261848319,27,1999
+ischemic,85+ years,Arizona,Female,2015,-0.3105025,-0.0885088,0.2219937,0.0004399,significant_decrease,4.184384426,27,1999
+ischemic,85+ years,Georgia,Total,2011,-0.3741857,-0.0871942,0.2869915,0.0000000,significant_decrease,3.323985623,27,1999
+ischemic,85+ years,Wisconsin,Female,2009,-0.4256819,-0.0861392,0.3395426,0.0000000,significant_decrease,4.019867833,27,1999
+ischemic,85+ years,Idaho,Total,2009,-0.3552306,-0.0847201,0.2705106,0.0000070,significant_decrease,4.535845449,27,1999
+ischemic,85+ years,Nebraska,Male,2009,-0.3715347,-0.0805041,0.2910306,0.0071057,significant_decrease,6.115252525,27,1999
+ischemic,85+ years,Alabama,Male,2013,-0.2982664,-0.0804794,0.2177870,0.0005397,significant_decrease,5.093090404,27,1999
+ischemic,85+ years,New Mexico,Female,2011,-0.3169944,-0.0796713,0.2373232,0.0024892,significant_decrease,4.582622726,27,1999
+ischemic,85+ years,Alabama,Female,2015,-0.2830979,-0.0792713,0.2038266,0.0000156,significant_decrease,3.084659877,27,1999
+ischemic,75-84 years,New Jersey,Total,2009,-0.1818588,-0.0778927,0.1039661,0.0000000,significant_decrease,1.222379929,27,1999
+ischemic,85+ years,Wyoming,Female,2009,-0.3663502,-0.0765384,0.2898118,0.0007254,significant_decrease,3.084662542,27,1999
+ischemic,85+ years,Michigan,Female,2012,-0.4414563,-0.0764397,0.3650166,0.0000768,significant_decrease,5.894152311,27,1999
+ischemic,75-84 years,Illinois,Male,2008,-0.2625881,-0.0757407,0.1868473,0.0000000,significant_decrease,1.748168597,27,1999
+ischemic,85+ years,Vermont,Female,2011,-0.3727234,-0.0747568,0.2979666,0.0003208,significant_decrease,4.727784167,27,1999
+ischemic,75-84 years,Pennsylvania,Male,2009,-0.2139664,-0.0711067,0.1428598,0.0000000,significant_decrease,2.015842555,27,1999
+ischemic,85+ years,Virginia,Total,2012,-0.3330971,-0.0703568,0.2627404,0.0000950,significant_decrease,4.302199071,27,1999
+ischemic,75-84 years,New York,Total,2012,-0.1822015,-0.0701661,0.1120354,0.0000000,significant_decrease,1.698806504,27,1999
+ischemic,75-84 years,District of Columbia,Male,2018,-0.1700539,-0.0689115,0.1011423,0.1318813,no_significant_change,2.153095782,27,1999
+ischemic,75-84 years,Maryland,Male,2011,-0.1851664,-0.0679796,0.1171867,0.0000000,significant_decrease,1.890640047,27,1999
+ischemic,75-84 years,Oklahoma,Male,2009,-0.2505257,-0.0674607,0.1830650,0.0000001,significant_decrease,2.690568024,27,1999
+ischemic,75-84 years,Rhode Island,Total,2011,-0.1663251,-0.0658219,0.1005032,0.0000000,significant_decrease,1.530161286,27,1999
+ischemic,85+ years,Wisconsin,Total,2009,-0.4207801,-0.0655508,0.3552293,0.0000011,significant_decrease,5.177801289,27,1999
+ischemic,75-84 years,New York,Female,2012,-0.1599227,-0.0639619,0.0959609,0.0000000,significant_decrease,1.278528306,27,1999
+ischemic,85+ years,Arkansas,Male,2013,-0.3456826,-0.0639024,0.2817802,0.1363887,no_significant_change,6.931066967,27,1999
+ischemic,85+ years,North Dakota,Male,2015,-0.3839159,-0.0629995,0.3209164,0.1556323,no_significant_change,6.101041001,27,1999
+ischemic,75-84 years,New Jersey,Female,2010,-0.1492557,-0.0623283,0.0869274,0.0000000,significant_decrease,0.875813397,27,1999
+ischemic,85+ years,Alabama,Total,2015,-0.2756526,-0.0619899,0.2136627,0.0002140,significant_decrease,3.788748585,27,1999
+ischemic,75-84 years,Michigan,Male,2009,-0.2241210,-0.0616858,0.1624352,0.0000000,significant_decrease,2.452949385,27,1999
+ischemic,75-84 years,Connecticut,Male,2007,-0.2415943,-0.0616684,0.1799259,0.0000000,significant_decrease,1.484096832,27,1999
+ischemic,75-84 years,Maryland,Total,2011,-0.1430040,-0.0606709,0.0823332,0.0000000,significant_decrease,1.397845401,27,1999
+ischemic,75-84 years,Massachusetts,Male,2011,-0.1602764,-0.0605600,0.0997164,0.0000000,significant_decrease,1.502741331,27,1999
+ischemic,85+ years,Washington,Male,2014,-0.3321826,-0.0598332,0.2723494,0.0099601,significant_decrease,6.509284627,27,1999
+ischemic,75-84 years,District of Columbia,Female,2015,-0.1048182,-0.0592150,0.0456032,0.0035456,significant_decrease,1.287324277,27,1999
+ischemic,75-84 years,California,Male,2010,-0.2245780,-0.0590996,0.1654784,0.0000000,significant_decrease,1.854496768,27,1999
+ischemic,85+ years,Michigan,Total,2012,-0.4309337,-0.0586951,0.3722386,0.0010342,significant_decrease,6.888932949,27,1999
+ischemic,75-84 years,Alabama,Male,2008,-0.2016107,-0.0580904,0.1435203,0.0000000,significant_decrease,1.732253641,27,1999
+ischemic,75-84 years,Illinois,Total,2009,-0.1837919,-0.0578484,0.1259435,0.0000000,significant_decrease,1.263980675,27,1999
+ischemic,75-84 years,Ohio,Male,2011,-0.2020448,-0.0569984,0.1450464,0.0000000,significant_decrease,2.219712254,27,1999
+ischemic,85+ years,Nebraska,Total,2011,-0.2999153,-0.0566361,0.2432791,0.0014374,significant_decrease,4.467270711,27,1999
+ischemic,75-84 years,Indiana,Male,2009,-0.2036176,-0.0565997,0.1470179,0.0000000,significant_decrease,2.162480248,27,1999
+ischemic,75-84 years,Pennsylvania,Total,2009,-0.1697373,-0.0565316,0.1132057,0.0000000,significant_decrease,1.449734083,27,1999
+ischemic,75-84 years,North Carolina,Male,2009,-0.2326936,-0.0559554,0.1767383,0.0000000,significant_decrease,1.956421201,27,1999
+ischemic,75-84 years,District of Columbia,Total,2018,-0.1226707,-0.0558039,0.0668668,0.0570943,no_significant_change,1.635227375,27,1999
+ischemic,75-84 years,Kentucky,Male,2009,-0.2258412,-0.0554942,0.1703469,0.0000000,significant_decrease,2.257458668,27,1999
+ischemic,85+ years,Tennessee,Female,2016,-0.4131284,-0.0554511,0.3576774,0.1079715,no_significant_change,5.052421709,27,1999
+ischemic,85+ years,Nebraska,Female,2012,-0.2902127,-0.0554055,0.2348072,0.0007239,significant_decrease,3.513053153,27,1999
+ischemic,85+ years,Vermont,Male,2009,-0.3297321,-0.0538843,0.2758479,0.1612158,no_significant_change,8.200435263,27,1999
+ischemic,75-84 years,Rhode Island,Female,2011,-0.1514259,-0.0537454,0.0976805,0.0000006,significant_decrease,1.103280287,27,1999
+heart_failure,85+ years,Montana,Female,2018,-0.0087632,-0.0536942,-0.0449310,0.1403228,no_significant_change,2.705942181,27,1999
+ischemic,75-84 years,Missouri,Male,2010,-0.2303590,-0.0528421,0.1775169,0.0000000,significant_decrease,2.286065505,27,1999
+ischemic,75-84 years,New Hampshire,Male,2010,-0.2098343,-0.0522579,0.1575764,0.0000223,significant_decrease,1.828665418,27,1999
+ischemic,75-84 years,Ohio,Total,2010,-0.1669583,-0.0512174,0.1157409,0.0000000,significant_decrease,1.601632244,27,1999
+ischemic,75-84 years,Delaware,Female,2009,-0.1593462,-0.0509204,0.1084258,0.0000089,significant_decrease,1.031286536,27,1999
+ischemic,75-84 years,Oklahoma,Total,2010,-0.1875204,-0.0501527,0.1373677,0.0000011,significant_decrease,2.030676265,27,1999
+ischemic,75-84 years,Pennsylvania,Female,2009,-0.1480311,-0.0499815,0.0980496,0.0000000,significant_decrease,1.010876008,27,1999
+ischemic,85+ years,Vermont,Total,2011,-0.3351483,-0.0494246,0.2857237,0.0334638,significant_decrease,5.998709322,27,1999
+ischemic,75-84 years,Massachusetts,Total,2011,-0.1188512,-0.0487730,0.0700782,0.0000000,significant_decrease,1.020569116,27,1999
+ischemic,75-84 years,Alaska,Male,2010,-0.1449585,-0.0479582,0.0970003,0.0005532,significant_decrease,1.355082366,27,1999
+ischemic,85+ years,Oregon,Female,2012,-0.2888282,-0.0479409,0.2408874,0.0001624,significant_decrease,2.867570756,27,1999
+ischemic,75-84 years,Illinois,Female,2010,-0.1437125,-0.0478684,0.0958441,0.0000000,significant_decrease,0.892366282,27,1999
+ischemic,75-84 years,California,Total,2011,-0.1690405,-0.0477673,0.1212731,0.0000000,significant_decrease,1.344416093,27,1999
+ischemic,75-84 years,Connecticut,Total,2008,-0.1690395,-0.0476786,0.1213609,0.0000000,significant_decrease,1.029377775,27,1999
+ischemic,85+ years,Washington,Female,2015,-0.3204577,-0.0473314,0.2731263,0.0185068,significant_decrease,3.634094825,27,1999
+ischemic,85+ years,Oregon,Male,2012,-0.3216760,-0.0470504,0.2746256,0.0422698,significant_decrease,5.52197728,27,1999
+ischemic,75-84 years,Delaware,Total,2009,-0.1992554,-0.0466591,0.1525963,0.0000001,significant_decrease,1.497328285,27,1999
+ischemic,75-84 years,Georgia,Male,2009,-0.2417178,-0.0466479,0.1950699,0.0000001,significant_decrease,1.596824109,27,1999
+ischemic,85+ years,Kentucky,Male,2014,-0.4666701,-0.0464908,0.4201793,0.0232590,significant_decrease,5.684784881,27,1999
+ischemic,85+ years,New Mexico,Total,2012,-0.2997854,-0.0462202,0.2535652,0.0293925,significant_decrease,5.423314399,27,1999
+ischemic,85+ years,Alaska,Female,2016,-0.1413404,-0.0458937,0.0954467,0.3666909,no_significant_change,2.104491493,27,1999
+ischemic,75-84 years,Ohio,Female,2010,-0.1446648,-0.0455498,0.0991151,0.0000000,significant_decrease,1.125744001,27,1999
+ischemic,85+ years,Virginia,Male,2013,-0.3414916,-0.0454611,0.2960305,0.0597472,no_significant_change,5.646055513,27,1999
+ischemic,75-84 years,Alabama,Total,2009,-0.1382440,-0.0447594,0.0934846,0.0000000,significant_decrease,1.255588913,27,1999
+ischemic,75-84 years,Maryland,Female,2014,-0.1115877,-0.0446004,0.0669873,0.0000000,significant_decrease,1.027925109,27,1999
+ischemic,75-84 years,Michigan,Total,2010,-0.1665308,-0.0445978,0.1219330,0.0000000,significant_decrease,1.857765444,27,1999
+ischemic,75-84 years,Texas,Male,2010,-0.2256346,-0.0444509,0.1811837,0.0000000,significant_decrease,2.05364064,27,1999
+ischemic,75-84 years,North Carolina,Total,2009,-0.1774954,-0.0442881,0.1332073,0.0000000,significant_decrease,1.385384428,27,1999
+ischemic,75-84 years,South Carolina,Male,2010,-0.2148732,-0.0441220,0.1707512,0.0000002,significant_decrease,1.898378547,27,1999
+ischemic,75-84 years,Oklahoma,Female,2010,-0.1626605,-0.0440297,0.1186308,0.0000063,significant_decrease,1.511359358,27,1999
+ischemic,75-84 years,Florida,Male,2010,-0.2006845,-0.0440249,0.1566596,0.0000000,significant_decrease,1.926731611,27,1999
+ischemic,85+ years,Kentucky,Female,2015,-0.4237573,-0.0439686,0.3797887,0.0312707,significant_decrease,3.518177514,27,1999
+ischemic,75-84 years,Connecticut,Female,2008,-0.1385908,-0.0438732,0.0947176,0.0000000,significant_decrease,0.67561104,27,1999
+ischemic,75-84 years,Delaware,Male,2009,-0.2688344,-0.0436594,0.2251750,0.0000601,significant_decrease,2.065849839,27,1999
+ischemic,75-84 years,Indiana,Total,2009,-0.1566861,-0.0435459,0.1131403,0.0000000,significant_decrease,1.580577902,27,1999
+ischemic,75-84 years,Idaho,Male,2008,-0.2087377,-0.0434723,0.1652654,0.0000029,significant_decrease,1.847426713,27,1999
+ischemic,75-84 years,Massachusetts,Female,2011,-0.0981558,-0.0428149,0.0553409,0.0000000,significant_decrease,0.650542112,27,1999
+ischemic,75-84 years,Tennessee,Female,2011,-0.1434196,-0.0424356,0.1009840,0.0000000,significant_decrease,1.442789802,27,1999
+ischemic,75-84 years,Missouri,Total,2011,-0.1619289,-0.0422084,0.1197204,0.0000000,significant_decrease,1.689750025,27,1999
+ischemic,75-84 years,California,Female,2012,-0.1363754,-0.0410906,0.0952848,0.0000000,significant_decrease,0.940451024,27,1999
+ischemic,85+ years,Wisconsin,Male,2010,-0.4078287,-0.0409362,0.3668925,0.0565426,no_significant_change,7.211581643,27,1999
+ischemic,85+ years,South Carolina,Male,2015,-0.3223112,-0.0402931,0.2820181,0.1993709,no_significant_change,5.219451379,27,1999
+ischemic,75-84 years,Michigan,Female,2010,-0.1441329,-0.0400476,0.1040853,0.0000000,significant_decrease,1.376868335,27,1999
+ischemic,85+ years,Tennessee,Male,2015,-0.4335278,-0.0392996,0.3942282,0.3049928,no_significant_change,7.637846207,27,1999
+ischemic,75-84 years,Georgia,Total,2009,-0.1739974,-0.0390554,0.1349420,0.0000000,significant_decrease,1.143605673,27,1999
+ischemic,85+ years,Hawaii,Female,2010,-0.2278162,-0.0390506,0.1887656,0.0000786,significant_decrease,2.315552335,27,1999
+ischemic,75-84 years,Washington,Male,2012,-0.1632821,-0.0389750,0.1243071,0.0000002,significant_decrease,1.86073587,27,1999
+ischemic,85+ years,Oregon,Total,2012,-0.2922768,-0.0389689,0.2533079,0.0028728,significant_decrease,3.892926661,27,1999
+ischemic,75-84 years,New Hampshire,Total,2010,-0.1797225,-0.0386065,0.1411160,0.0000006,significant_decrease,1.30354561,27,1999
+ischemic,75-84 years,Texas,Total,2010,-0.1824130,-0.0376453,0.1447677,0.0000000,significant_decrease,1.510099955,27,1999
+ischemic,75-84 years,Florida,Total,2010,-0.1647102,-0.0375798,0.1271304,0.0000000,significant_decrease,1.419497259,27,1999
+ischemic,75-84 years,South Carolina,Total,2009,-0.1781476,-0.0374536,0.1406940,0.0000000,significant_decrease,1.357438046,27,1999
+ischemic,75-84 years,Wisconsin,Male,2008,-0.2348186,-0.0373712,0.1974474,0.0000000,significant_decrease,2.115237693,27,1999
+ischemic,75-84 years,New Hampshire,Female,2009,-0.1780503,-0.0372837,0.1407666,0.0000005,significant_decrease,0.856020916,27,1999
+ischemic,75-84 years,Oregon,Male,2010,-0.1719769,-0.0371520,0.1348249,0.0000000,significant_decrease,1.572853383,27,1999
+ischemic,75-84 years,Colorado,Male,2012,-0.1457593,-0.0371126,0.1086467,0.0000224,significant_decrease,1.44715822,27,1999
+ischemic,55-64 years,Arkansas,Male,2021,-0.0023159,-0.0367555,-0.0344396,0.0125110,significant_decrease,0.772972798,27,1999
+ischemic,75-84 years,Iowa,Male,2011,-0.1893518,-0.0367240,0.1526277,0.0000018,significant_decrease,2.346909346,27,1999
+ischemic,85+ years,Washington,Total,2015,-0.3127697,-0.0365650,0.2762047,0.0553288,no_significant_change,4.718161727,27,1999
+ischemic,75-84 years,South Carolina,Female,2008,-0.1673431,-0.0358754,0.1314677,0.0000000,significant_decrease,0.918531755,27,1999
+ischemic,75-84 years,North Carolina,Female,2010,-0.1421198,-0.0355072,0.1066126,0.0000000,significant_decrease,0.941081007,27,1999
+ischemic,75-84 years,Vermont,Male,2009,-0.1851367,-0.0350196,0.1501171,0.0124902,significant_decrease,2.210833362,27,1999
+ischemic,75-84 years,Tennessee,Male,2012,-0.2049041,-0.0347033,0.1702008,0.0000738,significant_decrease,2.709511491,27,1999
+ischemic,75-84 years,Alabama,Female,2011,-0.1048958,-0.0343137,0.0705820,0.0000000,significant_decrease,0.893766321,27,1999
+ischemic,75-84 years,Indiana,Female,2010,-0.1271751,-0.0340805,0.0930946,0.0000000,significant_decrease,1.12797646,27,1999
+ischemic,75-84 years,Tennessee,Total,2012,-0.1580232,-0.0338808,0.1241423,0.0000018,significant_decrease,2.001620717,27,1999
+heart_failure,85+ years,Hawaii,Male,2018,0.0191822,-0.0335786,-0.0527608,0.0673506,no_significant_change,1.35999776,27,1999
+ischemic,75-84 years,Florida,Female,2010,-0.1417131,-0.0334789,0.1082341,0.0000000,significant_decrease,0.998223534,27,1999
+ischemic,75-84 years,Kentucky,Total,2011,-0.1625642,-0.0329670,0.1295972,0.0000003,significant_decrease,1.65598427,27,1999
+ischemic,75-84 years,North Dakota,Male,2013,-0.1854549,-0.0329342,0.1525207,0.0717876,no_significant_change,1.927325128,27,1999
+ischemic,75-84 years,Georgia,Female,2010,-0.1329044,-0.0325911,0.1003133,0.0000000,significant_decrease,0.798736076,27,1999
+ischemic,75-84 years,Idaho,Total,2009,-0.1342860,-0.0319428,0.1023432,0.0000001,significant_decrease,1.305304289,27,1999
+ischemic,75-84 years,Iowa,Female,2011,-0.1095155,-0.0318963,0.0776192,0.0000022,significant_decrease,1.158169674,27,1999
+ischemic,75-84 years,Iowa,Total,2011,-0.1378462,-0.0315994,0.1062469,0.0000002,significant_decrease,1.691673505,27,1999
+ischemic,75-84 years,Wyoming,Female,2008,-0.0804247,-0.0315496,0.0488751,0.0005084,significant_decrease,0.87902035,27,1999
+ischemic,85+ years,Kansas,Female,2010,-0.3896587,-0.0313674,0.3582914,0.0236692,significant_decrease,4.003244516,27,1999
+ischemic,75-84 years,West Virginia,Male,2010,-0.2428753,-0.0309510,0.2119243,0.0016198,significant_decrease,2.695421173,27,1999
+ischemic,75-84 years,Missouri,Female,2013,-0.1231341,-0.0309365,0.0921976,0.0000030,significant_decrease,1.220585,27,1999
+ischemic,75-84 years,Vermont,Total,2009,-0.1514320,-0.0306275,0.1208045,0.0015683,significant_decrease,1.585729886,27,1999
+ischemic,75-84 years,Alaska,Total,2010,-0.1289410,-0.0300157,0.0989254,0.0049855,significant_decrease,1.038048364,27,1999
+ischemic,75-84 years,Wisconsin,Female,2007,-0.1414543,-0.0300000,0.1114542,0.0000000,significant_decrease,0.962355162,27,1999
+ischemic,75-84 years,Texas,Female,2011,-0.1504611,-0.0294347,0.1210264,0.0000000,significant_decrease,1.079693311,27,1999
+ischemic,75-84 years,Washington,Total,2012,-0.1259467,-0.0292226,0.0967241,0.0000000,significant_decrease,1.334010837,27,1999
+ischemic,75-84 years,Maine,Male,2008,-0.2373929,-0.0292069,0.2081860,0.0000793,significant_decrease,2.064159723,27,1999
+ischemic,75-84 years,Minnesota,Male,2007,-0.2179480,-0.0291973,0.1887507,0.0000000,significant_decrease,1.558234599,27,1999
+ischemic,75-84 years,Kentucky,Female,2011,-0.1463495,-0.0291958,0.1171536,0.0000003,significant_decrease,1.185958886,27,1999
+ischemic,75-84 years,West Virginia,Female,2011,-0.1362127,-0.0291303,0.1070824,0.0000514,significant_decrease,1.515724224,27,1999
+ischemic,85+ years,Kansas,Male,2009,-0.4258340,-0.0288940,0.3969399,0.2325848,no_significant_change,6.661650048,27,1999
+ischemic,75-84 years,Wisconsin,Total,2008,-0.1671404,-0.0288726,0.1382678,0.0000000,significant_decrease,1.489410434,27,1999
+ischemic,75-84 years,Colorado,Total,2012,-0.1072461,-0.0288583,0.0783878,0.0000009,significant_decrease,1.03535337,27,1999
+ischemic,75-84 years,Nebraska,Male,2009,-0.1682545,-0.0287273,0.1395272,0.0000106,significant_decrease,1.710585812,27,1999
+ischemic,75-84 years,Nebraska,Total,2007,-0.1479237,-0.0287035,0.1192201,0.0000000,significant_decrease,1.174456521,27,1999
+ischemic,75-84 years,Wyoming,Male,2008,-0.2378311,-0.0284599,0.2093712,0.0217701,significant_decrease,1.956560307,27,1999
+ischemic,75-84 years,Virginia,Female,2011,-0.1133559,-0.0284464,0.0849095,0.0000000,significant_decrease,0.902923285,27,1999
+ischemic,75-84 years,Alaska,Female,2007,-0.1551971,-0.0283929,0.1268043,0.0065842,significant_decrease,0.730297394,27,1999
+ischemic,75-84 years,Vermont,Female,2010,-0.1282447,-0.0282514,0.0999933,0.0033606,significant_decrease,1.0480504,27,1999
+ischemic,75-84 years,Virginia,Total,2011,-0.1343752,-0.0281853,0.1061899,0.0000000,significant_decrease,1.325886593,27,1999
+ischemic,75-84 years,Wyoming,Total,2008,-0.1448196,-0.0279038,0.1169157,0.0006667,significant_decrease,1.399992371,27,1999
+ischemic,75-84 years,North Dakota,Total,2012,-0.1314167,-0.0277765,0.1036402,0.0013536,significant_decrease,1.359274069,27,1999
+ischemic,75-84 years,Oregon,Total,2010,-0.1294997,-0.0277579,0.1017417,0.0000000,significant_decrease,1.082629692,27,1999
+ischemic,85+ years,Tennessee,Total,2016,-0.4056446,-0.0276371,0.3780075,0.4050096,no_significant_change,5.97531945,27,1999
+ischemic,85+ years,Hawaii,Total,2011,-0.2622088,-0.0269265,0.2352824,0.0166050,significant_decrease,3.01525879,27,1999
+ischemic,85+ years,Kentucky,Total,2015,-0.4227169,-0.0267054,0.3960115,0.1130357,no_significant_change,4.28713694,27,1999
+ischemic,75-84 years,Louisiana,Male,2011,-0.1939803,-0.0266868,0.1672935,0.0013932,significant_decrease,2.273077332,27,1999
+ischemic,75-84 years,Utah,Male,2008,-0.1710541,-0.0263390,0.1447151,0.0000007,significant_decrease,1.547055887,27,1999
+ischemic,85+ years,New Mexico,Male,2012,-0.3108033,-0.0255827,0.2852206,0.2760369,no_significant_change,6.703137986,27,1999
+ischemic,55-64 years,Arkansas,Total,2021,-0.0008375,-0.0254303,-0.0245928,0.0099064,significant_decrease,0.539700534,27,1999
+ischemic,65-74 years,Illinois,Male,2008,-0.1044380,-0.0253943,0.0790438,0.0000000,significant_decrease,0.797694743,27,1999
+ischemic,75-84 years,Arkansas,Male,2011,-0.1625142,-0.0253709,0.1371433,0.0007672,significant_decrease,2.650257324,27,1999
+ischemic,75-84 years,Arkansas,Female,2011,-0.1018091,-0.0253475,0.0764616,0.0000008,significant_decrease,1.490798407,27,1999
+ischemic,75-84 years,Nebraska,Female,2007,-0.1199494,-0.0249845,0.0949649,0.0000000,significant_decrease,0.734153734,27,1999
+ischemic,75-84 years,Louisiana,Total,2011,-0.1469937,-0.0249364,0.1220573,0.0001240,significant_decrease,1.660002516,27,1999
+ischemic,75-84 years,North Dakota,Female,2011,-0.0944704,-0.0249106,0.0695598,0.0003722,significant_decrease,0.870378898,27,1999
+ischemic,75-84 years,South Dakota,Male,2012,-0.1457214,-0.0246338,0.1210876,0.0932486,no_significant_change,2.382366495,27,1999
+ischemic,75-84 years,South Dakota,Female,2010,-0.0912637,-0.0244157,0.0668480,0.0011207,significant_decrease,1.038237916,27,1999
+ischemic,75-84 years,Colorado,Female,2012,-0.0856554,-0.0243201,0.0613353,0.0000147,significant_decrease,0.6889084,27,1999
+ischemic,75-84 years,Mississippi,Male,2010,-0.2166753,-0.0241798,0.1924955,0.0069987,significant_decrease,2.505468799,27,1999
+ischemic,75-84 years,Arkansas,Total,2011,-0.1217102,-0.0240125,0.0976977,0.0000034,significant_decrease,2.00380904,27,1999
+ischemic,75-84 years,Virginia,Male,2012,-0.1682715,-0.0237604,0.1445111,0.0001296,significant_decrease,1.862106869,27,1999
+ischemic,65-74 years,New Jersey,Male,2008,-0.1049263,-0.0237140,0.0812124,0.0000000,significant_decrease,0.684313174,27,1999
+ischemic,75-84 years,Idaho,Female,2011,-0.0897976,-0.0233468,0.0664508,0.0000020,significant_decrease,0.815039833,27,1999
+ischemic,75-84 years,Hawaii,Male,2013,-0.0723760,-0.0232083,0.0491677,0.0098529,significant_decrease,1.604181746,27,1999
+ischemic,75-84 years,Arizona,Male,2013,-0.1420690,-0.0227954,0.1192736,0.0013799,significant_decrease,1.925635636,27,1999
+ischemic,85+ years,Michigan,Male,2013,-0.4148794,-0.0227680,0.3921114,0.2629634,no_significant_change,8.663795392,27,1999
+ischemic,75-84 years,West Virginia,Total,2011,-0.1689667,-0.0225841,0.1463826,0.0014231,significant_decrease,2.053760501,27,1999
+ischemic,75-84 years,Maine,Total,2008,-0.1851832,-0.0225252,0.1626580,0.0000394,significant_decrease,1.518258419,27,1999
+ischemic,75-84 years,Louisiana,Female,2012,-0.1161519,-0.0219737,0.0941783,0.0009158,significant_decrease,1.190652744,27,1999
+ischemic,65-74 years,North Dakota,Male,2008,-0.0868928,-0.0216418,0.0652510,0.0002934,significant_decrease,0.793044538,27,1999
+ischemic,65-74 years,Alabama,Male,2005,-0.1336645,-0.0214623,0.1122021,0.0000000,significant_decrease,0.827345983,27,1999
+ischemic,85+ years,Hawaii,Male,2011,-0.3142159,-0.0212130,0.2930030,0.2850946,no_significant_change,4.231121762,27,1999
+ischemic,75-84 years,Mississippi,Female,2010,-0.1647818,-0.0209514,0.1438305,0.0014479,significant_decrease,1.257198719,27,1999
+ischemic,65-74 years,Massachusetts,Male,2008,-0.0864467,-0.0200441,0.0664026,0.0000000,significant_decrease,0.618662497,27,1999
+ischemic,75-84 years,Utah,Total,2008,-0.1246510,-0.0197932,0.1048578,0.0000001,significant_decrease,1.126058702,27,1999
+ischemic,65-74 years,Michigan,Male,2006,-0.1290305,-0.0197914,0.1092390,0.0000000,significant_decrease,1.076191482,27,1999
+ischemic,75-84 years,Mississippi,Total,2010,-0.1804382,-0.0195988,0.1608395,0.0023516,significant_decrease,1.794077862,27,1999
+ischemic,75-84 years,Oregon,Female,2011,-0.0994181,-0.0194948,0.0799234,0.0000005,significant_decrease,0.666302102,27,1999
+ischemic,85+ years,Kansas,Total,2010,-0.3784838,-0.0192056,0.3592782,0.2140181,no_significant_change,4.955770998,27,1999
+ischemic,65-74 years,Kentucky,Male,2007,-0.1186063,-0.0185190,0.1000873,0.0000002,significant_decrease,1.151430424,27,1999
+ischemic,65-74 years,Oklahoma,Male,2009,-0.1124384,-0.0182637,0.0941747,0.0000139,significant_decrease,1.194876762,27,1999
+ischemic,75-84 years,Washington,Female,2013,-0.1021774,-0.0181353,0.0840422,0.0001068,significant_decrease,0.891631446,27,1999
+ischemic,75-84 years,Maine,Female,2009,-0.1445207,-0.0178117,0.1267091,0.0013103,significant_decrease,1.053027493,27,1999
+ischemic,65-74 years,Illinois,Total,2008,-0.0782888,-0.0177103,0.0605785,0.0000000,significant_decrease,0.55958006,27,1999
+heart_failure,85+ years,New Hampshire,Female,2021,0.0586020,-0.0174217,-0.0760237,0.7779298,no_significant_change,2.771942288,27,1999
+ischemic,75-84 years,South Dakota,Total,2012,-0.1069718,-0.0173455,0.0896263,0.0669195,no_significant_change,1.66701062,27,1999
+ischemic,65-74 years,New Jersey,Total,2008,-0.0772966,-0.0171650,0.0601316,0.0000000,significant_decrease,0.476973255,27,1999
+ischemic,65-74 years,Maryland,Male,2010,-0.0869686,-0.0171070,0.0698616,0.0000032,significant_decrease,0.841654962,27,1999
+ischemic,65-74 years,District of Columbia,Female,2015,-0.0444130,-0.0169527,0.0274604,0.0870714,no_significant_change,0.559878701,27,1999
+ischemic,75-84 years,Arizona,Female,2014,-0.0968589,-0.0169261,0.0799329,0.0017328,significant_decrease,0.973519193,27,1999
+ischemic,65-74 years,Alabama,Total,2005,-0.0919052,-0.0169116,0.0749937,0.0000000,significant_decrease,0.576599587,27,1999
+ischemic,75-84 years,Arizona,Total,2014,-0.1115110,-0.0166457,0.0948653,0.0030536,significant_decrease,1.414687475,27,1999
+ischemic,55-64 years,District of Columbia,Male,2003,0.0361945,-0.0165963,-0.0527908,0.0000969,significant_decrease,0.635740153,27,1999
+ischemic,75-84 years,Nevada,Female,2007,-0.1440595,-0.0165671,0.1274924,0.0000708,significant_decrease,1.231298565,27,1999
+ischemic,65-74 years,New York,Male,2010,-0.1019139,-0.0164948,0.0854191,0.0000023,significant_decrease,0.976826959,27,1999
+ischemic,85+ years,Utah,Female,2009,-0.2202669,-0.0162335,0.2040335,0.2820032,no_significant_change,3.595800343,27,1999
+ischemic,55-64 years,Arkansas,Female,2021,0.0003480,-0.0161165,-0.0164645,0.0394869,significant_decrease,0.316664542,27,1999
+ischemic,85+ years,Nevada,Female,2007,-0.4394792,-0.0160399,0.4234393,0.3812202,no_significant_change,4.537927944,27,1999
+ischemic,85+ years,Louisiana,Male,2012,-0.4648850,-0.0159552,0.4489298,0.4832635,no_significant_change,5.835919956,27,1999
+ischemic,75-84 years,Utah,Female,2008,-0.0951948,-0.0159384,0.0792564,0.0002695,significant_decrease,0.761968371,27,1999
+ischemic,85+ years,Minnesota,Female,2011,-0.2716580,-0.0156085,0.2560495,0.1306466,no_significant_change,2.981611196,27,1999
+ischemic,75-84 years,Minnesota,Total,2008,-0.1441243,-0.0152678,0.1288565,0.0000041,significant_decrease,1.067729766,27,1999
+ischemic,65-74 years,North Carolina,Male,2008,-0.1178439,-0.0151125,0.1027314,0.0000003,significant_decrease,0.955180187,27,1999
+heart_failure,85+ years,Mississippi,Male,2004,0.0829332,-0.0149164,-0.0978496,0.1475512,no_significant_change,4.605557988,27,1999
+ischemic,85+ years,Nevada,Male,2008,-0.2904903,-0.0146293,0.2758610,0.5957763,no_significant_change,6.347849806,27,1999
+ischemic,65-74 years,Michigan,Total,2007,-0.0846044,-0.0145694,0.0700350,0.0000000,significant_decrease,0.769735774,27,1999
+ischemic,55-64 years,Oklahoma,Male,2008,-0.0395850,-0.0141985,0.0253864,0.0000032,significant_decrease,0.588376348,27,1999
+ischemic,65-74 years,Pennsylvania,Male,2009,-0.0979576,-0.0141078,0.0838498,0.0000000,significant_decrease,0.903680338,27,1999
+ischemic,85+ years,Maine,Female,2011,-0.4341912,-0.0141036,0.4200875,0.5147203,no_significant_change,4.730793534,27,1999
+ischemic,65-74 years,Oklahoma,Total,2009,-0.0784486,-0.0139542,0.0644944,0.0000172,significant_decrease,0.87915498,27,1999
+ischemic,65-74 years,Idaho,Male,2007,-0.0977088,-0.0138494,0.0838595,0.0000066,significant_decrease,0.770034179,27,1999
+ischemic,65-74 years,Wyoming,Male,2009,-0.0522015,-0.0137158,0.0384858,0.0208832,significant_decrease,0.857594148,27,1999
+ischemic,75-84 years,Nevada,Male,2008,-0.1841264,-0.0135455,0.1705809,0.0685349,no_significant_change,2.334942666,27,1999
+ischemic,65-74 years,Wisconsin,Male,2007,-0.1047299,-0.0135151,0.0912147,0.0000001,significant_decrease,0.871096322,27,1999
+ischemic,65-74 years,Iowa,Male,2007,-0.0976410,-0.0134269,0.0842141,0.0000086,significant_decrease,1.047745939,27,1999
+ischemic,65-74 years,North Dakota,Total,2008,-0.0606016,-0.0133461,0.0472555,0.0001520,significant_decrease,0.558447372,27,1999
+ischemic,65-74 years,Delaware,Male,2008,-0.1156246,-0.0133101,0.1023146,0.0013519,significant_decrease,0.86111583,27,1999
+heart_failure,85+ years,Montana,Total,2003,-0.1172565,-0.0132595,0.1039970,0.1346439,no_significant_change,2.698355564,27,1999
+ischemic,85+ years,Mississippi,Total,2013,-0.4341986,-0.0131914,0.4210073,0.4755817,no_significant_change,4.622461679,27,1999
+ischemic,75-84 years,Nevada,Total,2008,-0.1507417,-0.0127176,0.1380241,0.0146675,significant_decrease,1.751839562,27,1999
+ischemic,55-64 years,Maryland,Male,2004,-0.0400838,-0.0124927,0.0275910,0.0000000,significant_decrease,0.375413036,27,1999
+ischemic,65-74 years,Maryland,Total,2011,-0.0632379,-0.0124695,0.0507684,0.0000001,significant_decrease,0.584550873,27,1999
+ischemic,65-74 years,District of Columbia,Total,2015,-0.0555887,-0.0124505,0.0431382,0.2941124,no_significant_change,0.933373944,27,1999
+ischemic,65-74 years,Massachusetts,Total,2010,-0.0534219,-0.0122730,0.0411489,0.0000000,significant_decrease,0.408463104,27,1999
+ischemic,65-74 years,Nebraska,Male,2005,-0.1054016,-0.0122040,0.0931976,0.0000046,significant_decrease,0.635156247,27,1999
+ischemic,75-84 years,Hawaii,Female,2007,-0.0922853,-0.0121921,0.0800932,0.0014329,significant_decrease,0.759448225,27,1999
+ischemic,65-74 years,Alaska,Total,2003,-0.1544396,-0.0121868,0.1422528,0.0000046,significant_decrease,0.566101384,27,1999
+ischemic,55-64 years,Illinois,Male,2007,-0.0378985,-0.0121233,0.0257752,0.0000000,significant_decrease,0.388909866,27,1999
+ischemic,65-74 years,Wyoming,Total,2010,-0.0352700,-0.0119511,0.0233189,0.0032121,significant_decrease,0.586822776,27,1999
+ischemic,65-74 years,Alaska,Male,2005,-0.1392920,-0.0119297,0.1273623,0.0059319,significant_decrease,0.796841191,27,1999
+ischemic,65-74 years,Illinois,Female,2008,-0.0591528,-0.0119027,0.0472501,0.0000000,significant_decrease,0.347297817,27,1999
+ischemic,75-84 years,New Mexico,Female,2009,-0.1053832,-0.0114709,0.0939122,0.0223090,significant_decrease,1.224365076,27,1999
+ischemic,65-74 years,Texas,Male,2008,-0.1103927,-0.0114296,0.0989631,0.0000029,significant_decrease,0.989461169,27,1999
+ischemic,65-74 years,Alabama,Female,2007,-0.0501369,-0.0113462,0.0387907,0.0000000,significant_decrease,0.361151882,27,1999
+ischemic,65-74 years,Arizona,Male,2007,-0.0986364,-0.0112922,0.0873442,0.0000002,significant_decrease,0.907377694,27,1999
+ischemic,65-74 years,New York,Total,2011,-0.0730276,-0.0112779,0.0617497,0.0000052,significant_decrease,0.685598609,27,1999
+ischemic,65-74 years,New York,Female,2011,-0.0559691,-0.0112317,0.0447374,0.0000000,significant_decrease,0.429406831,27,1999
+ischemic,65-74 years,Indiana,Male,2009,-0.0980525,-0.0112129,0.0868396,0.0000224,significant_decrease,0.982811778,27,1999
+ischemic,65-74 years,South Carolina,Male,2008,-0.1161107,-0.0111885,0.1049222,0.0000796,significant_decrease,0.947061854,27,1999
+ischemic,65-74 years,Indiana,Total,2008,-0.0790514,-0.0111853,0.0678661,0.0000000,significant_decrease,0.686873464,27,1999
+ischemic,75-84 years,Hawaii,Total,2011,-0.0727586,-0.0110634,0.0616953,0.0142331,significant_decrease,1.149253345,27,1999
+ischemic,65-74 years,Pennsylvania,Total,2009,-0.0699984,-0.0109897,0.0590087,0.0000000,significant_decrease,0.626700756,27,1999
+ischemic,65-74 years,North Carolina,Total,2008,-0.0844912,-0.0109121,0.0735791,0.0000000,significant_decrease,0.652223343,27,1999
+ischemic,65-74 years,New Jersey,Female,2009,-0.0527409,-0.0109082,0.0418327,0.0000000,significant_decrease,0.294709119,27,1999
+ischemic,65-74 years,Maryland,Female,2011,-0.0486370,-0.0108991,0.0377379,0.0000000,significant_decrease,0.366217263,27,1999
+ischemic,75-84 years,New Mexico,Male,2008,-0.1799337,-0.0107772,0.1691565,0.0758606,no_significant_change,2.291170486,27,1999
+ischemic,85+ years,Mississippi,Female,2014,-0.4389950,-0.0106132,0.4283819,0.5721819,no_significant_change,3.850348938,27,1999
+ischemic,55-64 years,District of Columbia,Total,2003,0.0111795,-0.0104354,-0.0216149,0.0001405,significant_decrease,0.450022411,27,1999
+ischemic,65-74 years,Oklahoma,Female,2009,-0.0518940,-0.0103758,0.0415182,0.0001771,significant_decrease,0.597817246,27,1999
+ischemic,65-74 years,Louisiana,Total,2008,-0.0711596,-0.0101464,0.0610133,0.0000094,significant_decrease,0.829461052,27,1999
+ischemic,65-74 years,Texas,Total,2008,-0.0812766,-0.0099682,0.0713084,0.0000000,significant_decrease,0.687805775,27,1999
+ischemic,55-64 years,Oklahoma,Total,2008,-0.0243911,-0.0099466,0.0144445,0.0000038,significant_decrease,0.424606847,27,1999
+ischemic,65-74 years,Idaho,Total,2008,-0.0617451,-0.0099337,0.0518114,0.0000005,significant_decrease,0.531625625,27,1999
+ischemic,65-74 years,South Dakota,Total,2007,-0.0567701,-0.0099115,0.0468587,0.0000105,significant_decrease,0.683072945,27,1999
+ischemic,65-74 years,Iowa,Total,2007,-0.0671741,-0.0098929,0.0572813,0.0000007,significant_decrease,0.736264713,27,1999
+ischemic,65-74 years,Minnesota,Male,2007,-0.0930549,-0.0098796,0.0831753,0.0000000,significant_decrease,0.537069403,27,1999
+ischemic,65-74 years,Missouri,Male,2008,-0.1074238,-0.0098718,0.0975520,0.0004071,significant_decrease,1.146486604,27,1999
+ischemic,65-74 years,South Dakota,Female,2004,-0.0429187,-0.0098316,0.0330871,0.0000009,significant_decrease,0.371500717,27,1999
+ischemic,65-74 years,Delaware,Total,2008,-0.0891487,-0.0098250,0.0793238,0.0007327,significant_decrease,0.591862495,27,1999
+ischemic,65-74 years,Georgia,Male,2009,-0.1059245,-0.0097581,0.0961664,0.0000017,significant_decrease,0.768682238,27,1999
+ischemic,65-74 years,Utah,Male,2004,-0.1038779,-0.0097401,0.0941378,0.0000035,significant_decrease,0.599532995,27,1999
+ischemic,65-74 years,Michigan,Female,2009,-0.0531310,-0.0097118,0.0434192,0.0000000,significant_decrease,0.491549142,27,1999
+ischemic,65-74 years,Wisconsin,Total,2007,-0.0722994,-0.0097102,0.0625893,0.0000000,significant_decrease,0.597881435,27,1999
+ischemic,85+ years,Nevada,Total,2007,-0.3934772,-0.0095761,0.3839012,0.6222403,no_significant_change,5.310934208,27,1999
+ischemic,55-64 years,Arizona,Male,2007,-0.0245890,-0.0095496,0.0150394,0.0000000,significant_decrease,0.430415806,27,1999
+ischemic,65-74 years,Ohio,Male,2009,-0.1074743,-0.0095096,0.0979647,0.0002304,significant_decrease,1.034325867,27,1999
+ischemic,55-64 years,Alabama,Male,2004,-0.0453493,-0.0094539,0.0358954,0.0000000,significant_decrease,0.445571345,27,1999
+ischemic,65-74 years,Indiana,Female,2008,-0.0590264,-0.0093014,0.0497251,0.0000004,significant_decrease,0.419834431,27,1999
+ischemic,65-74 years,Pennsylvania,Female,2009,-0.0498327,-0.0092502,0.0405824,0.0000000,significant_decrease,0.375937283,27,1999
+ischemic,55-64 years,Massachusetts,Male,2006,-0.0307853,-0.0091931,0.0215923,0.0000000,significant_decrease,0.280861261,27,1999
+ischemic,65-74 years,Nebraska,Total,2005,-0.0746842,-0.0091743,0.0655100,0.0000000,significant_decrease,0.438546896,27,1999
+ischemic,65-74 years,Arizona,Total,2008,-0.0650847,-0.0090048,0.0560798,0.0000001,significant_decrease,0.601092062,27,1999
+ischemic,65-74 years,Ohio,Total,2009,-0.0776511,-0.0087338,0.0689173,0.0000002,significant_decrease,0.718907061,27,1999
+ischemic,65-74 years,Tennessee,Female,2009,-0.0498742,-0.0085103,0.0413639,0.0000181,significant_decrease,0.591080686,27,1999
+ischemic,65-74 years,South Dakota,Male,2009,-0.0787128,-0.0084152,0.0702976,0.0962339,no_significant_change,0.992059467,27,1999
+ischemic,55-64 years,South Carolina,Male,2006,-0.0433284,-0.0084148,0.0349136,0.0000003,significant_decrease,0.546663425,27,1999
+ischemic,65-74 years,Wyoming,Female,2013,-0.0242053,-0.0082943,0.0159109,0.1060160,no_significant_change,0.309796837,27,1999
+ischemic,65-74 years,Wisconsin,Female,2006,-0.0517027,-0.0082902,0.0434125,0.0000000,significant_decrease,0.335896825,27,1999
+ischemic,55-64 years,Michigan,Male,2004,-0.0462342,-0.0082457,0.0379885,0.0000000,significant_decrease,0.556682995,27,1999
+ischemic,55-64 years,Texas,Male,2006,-0.0379566,-0.0082366,0.0297200,0.0000000,significant_decrease,0.469478698,27,1999
+ischemic,65-74 years,Delaware,Female,2007,-0.0745927,-0.0081195,0.0664732,0.0163985,significant_decrease,0.359670756,27,1999
+ischemic,65-74 years,California,Female,2010,-0.0479709,-0.0080933,0.0398776,0.0000000,significant_decrease,0.343982176,27,1999
+ischemic,65-74 years,South Carolina,Total,2009,-0.0764261,-0.0080845,0.0683416,0.0000592,significant_decrease,0.64279932,27,1999
+ischemic,65-74 years,Louisiana,Female,2008,-0.0521028,-0.0078649,0.0442379,0.0000046,significant_decrease,0.534257251,27,1999
+ischemic,65-74 years,Kentucky,Total,2010,-0.0667209,-0.0078343,0.0588866,0.0010056,significant_decrease,0.821397289,27,1999
+heart_failure,85+ years,Montana,Male,2004,-0.1995783,-0.0078104,0.1917680,0.4993806,no_significant_change,2.691973242,27,1999
+ischemic,65-74 years,Louisiana,Male,2010,-0.0844308,-0.0077430,0.0766878,0.0179490,significant_decrease,1.167525952,27,1999
+ischemic,65-74 years,California,Male,2010,-0.0838704,-0.0077308,0.0761396,0.0000844,significant_decrease,0.864805707,27,1999
+ischemic,55-64 years,New Jersey,Male,2007,-0.0334553,-0.0077201,0.0257353,0.0000000,significant_decrease,0.327010002,27,1999
+ischemic,55-64 years,Idaho,Male,2005,-0.0346816,-0.0077157,0.0269659,0.0000151,significant_decrease,0.35590501,27,1999
+ischemic,75-84 years,Minnesota,Female,2009,-0.1058596,-0.0077099,0.0981497,0.0041076,significant_decrease,0.659404574,27,1999
+ischemic,55-64 years,Illinois,Total,2007,-0.0268468,-0.0077066,0.0191402,0.0000000,significant_decrease,0.262861132,27,1999
+ischemic,65-74 years,California,Total,2010,-0.0638066,-0.0076883,0.0561182,0.0000004,significant_decrease,0.589540654,27,1999
+ischemic,65-74 years,North Dakota,Female,2008,-0.0404583,-0.0076833,0.0327750,0.0109474,significant_decrease,0.321369929,27,1999
+heart_failure,75-84 years,Montana,Total,2003,-0.0298187,-0.0076777,0.0221411,0.0000711,significant_decrease,0.376753988,27,1999
+ischemic,65-74 years,Alaska,Female,2003,-0.1099437,-0.0076537,0.1022900,0.0021685,significant_decrease,0.324982474,27,1999
+ischemic,75-84 years,New Mexico,Total,2009,-0.1283081,-0.0076143,0.1206939,0.0897592,no_significant_change,1.71368026,27,1999
+ischemic,65-74 years,Tennessee,Total,2009,-0.0695055,-0.0075595,0.0619460,0.0001809,significant_decrease,0.950981556,27,1999
+ischemic,65-74 years,Georgia,Total,2009,-0.0759632,-0.0074732,0.0684901,0.0000001,significant_decrease,0.530658734,27,1999
+ischemic,55-64 years,Louisiana,Male,2009,-0.0267954,-0.0074205,0.0193749,0.0001219,significant_decrease,0.624956237,27,1999
+ischemic,65-74 years,South Carolina,Female,2009,-0.0546944,-0.0073988,0.0472955,0.0000332,significant_decrease,0.383455109,27,1999
+heart_failure,75-84 years,Montana,Male,2003,-0.0374699,-0.0073337,0.0301362,0.0124011,significant_decrease,0.399348366,27,1999
+ischemic,65-74 years,North Carolina,Female,2008,-0.0600974,-0.0072973,0.0528001,0.0000010,significant_decrease,0.392731987,27,1999
+ischemic,65-74 years,Florida,Male,2008,-0.0948216,-0.0072439,0.0875776,0.0000269,significant_decrease,0.884102881,27,1999
+ischemic,65-74 years,New Hampshire,Female,2009,-0.0493736,-0.0072144,0.0421592,0.0016172,significant_decrease,0.280780145,27,1999
+ischemic,65-74 years,Ohio,Female,2010,-0.0516192,-0.0072063,0.0444129,0.0000013,significant_decrease,0.436429434,27,1999
+ischemic,65-74 years,Texas,Female,2009,-0.0544928,-0.0071420,0.0473508,0.0000000,significant_decrease,0.420110499,27,1999
+ischemic,65-74 years,Arkansas,Total,2007,-0.0570207,-0.0070521,0.0499686,0.0094205,significant_decrease,0.964522402,27,1999
+ischemic,55-64 years,Nevada,Male,2004,-0.0581371,-0.0070282,0.0511089,0.0000233,significant_decrease,0.503534438,27,1999
+ischemic,65-74 years,Virginia,Male,2009,-0.0899133,-0.0069009,0.0830124,0.0020007,significant_decrease,0.85056285,27,1999
+ischemic,55-64 years,Alabama,Total,2004,-0.0322081,-0.0067945,0.0254136,0.0000000,significant_decrease,0.301697471,27,1999
+ischemic,65-74 years,Georgia,Female,2008,-0.0587458,-0.0067680,0.0519778,0.0000000,significant_decrease,0.329314844,27,1999
+ischemic,65-74 years,Minnesota,Total,2007,-0.0620530,-0.0067274,0.0553256,0.0000000,significant_decrease,0.36005943,27,1999
+ischemic,65-74 years,Massachusetts,Female,2012,-0.0342481,-0.0066303,0.0276177,0.0000005,significant_decrease,0.22304458,27,1999
+ischemic,55-64 years,North Carolina,Male,2007,-0.0371656,-0.0065841,0.0305815,0.0000037,significant_decrease,0.509625973,27,1999
+ischemic,65-74 years,Rhode Island,Total,2012,-0.0670183,-0.0065596,0.0604587,0.0271970,significant_decrease,0.615650404,27,1999
+ischemic,65-74 years,Missouri,Total,2009,-0.0702504,-0.0063941,0.0638563,0.0013687,significant_decrease,0.807126423,27,1999
+ischemic,65-74 years,Vermont,Total,2007,-0.0650033,-0.0063782,0.0586251,0.0316877,significant_decrease,0.635047327,27,1999
+ischemic,55-64 years,South Dakota,Male,2007,-0.0188942,-0.0063661,0.0125280,0.0052842,significant_decrease,0.477056367,27,1999
+ischemic,65-74 years,New Hampshire,Total,2009,-0.0769691,-0.0062610,0.0707081,0.0050340,significant_decrease,0.517252585,27,1999
+ischemic,65-74 years,Iowa,Female,2009,-0.0374331,-0.0061842,0.0312489,0.0006320,significant_decrease,0.439718902,27,1999
+ischemic,65-74 years,Tennessee,Male,2009,-0.0980705,-0.0061121,0.0919584,0.0132396,significant_decrease,1.363902019,27,1999
+ischemic,65-74 years,Kentucky,Female,2010,-0.0483020,-0.0060894,0.0422126,0.0009964,significant_decrease,0.527989859,27,1999
+ischemic,55-64 years,Florida,Male,2007,-0.0365409,-0.0060348,0.0305062,0.0000000,significant_decrease,0.443236496,27,1999
+ischemic,65-74 years,Vermont,Male,2006,-0.1112268,-0.0060188,0.1052080,0.1934761,no_significant_change,0.92183636,27,1999
+ischemic,65-74 years,Vermont,Female,2010,-0.0322845,-0.0059197,0.0263649,0.1087439,no_significant_change,0.363589223,27,1999
+ischemic,65-74 years,Rhode Island,Male,2011,-0.1100196,-0.0059051,0.1041146,0.2554618,no_significant_change,0.910801996,27,1999
+ischemic,65-74 years,District of Columbia,Male,2015,-0.0715082,-0.0058937,0.0656145,0.7475467,no_significant_change,1.411359628,27,1999
+ischemic,55-64 years,Maryland,Total,2012,-0.0158150,-0.0057109,0.0101042,0.0000006,significant_decrease,0.259578433,27,1999
+ischemic,65-74 years,Virginia,Total,2009,-0.0667492,-0.0056817,0.0610675,0.0000975,significant_decrease,0.59247238,27,1999
+ischemic,65-74 years,Maine,Female,2008,-0.0556841,-0.0056703,0.0500138,0.0030197,significant_decrease,0.287077567,27,1999
+ischemic,65-74 years,Colorado,Male,2010,-0.0639597,-0.0055139,0.0584458,0.0005232,significant_decrease,0.651889814,27,1999
+ischemic,55-64 years,Georgia,Male,2008,-0.0401918,-0.0054648,0.0347270,0.0000017,significant_decrease,0.396106416,27,1999
+ischemic,65-74 years,Utah,Total,2005,-0.0670796,-0.0054299,0.0616498,0.0000037,significant_decrease,0.408629685,27,1999
+ischemic,55-64 years,Arizona,Total,2008,-0.0170796,-0.0053649,0.0117147,0.0000000,significant_decrease,0.281368973,27,1999
+ischemic,65-74 years,New Hampshire,Male,2009,-0.1101433,-0.0053379,0.1048054,0.0926962,no_significant_change,0.766636031,27,1999
+ischemic,55-64 years,Massachusetts,Total,2008,-0.0181831,-0.0052633,0.0129198,0.0000000,significant_decrease,0.18011153,27,1999
+ischemic,55-64 years,Texas,Total,2007,-0.0240565,-0.0052452,0.0188113,0.0000000,significant_decrease,0.318754161,27,1999
+ischemic,55-64 years,New Jersey,Total,2007,-0.0226376,-0.0052046,0.0174331,0.0000000,significant_decrease,0.215848236,27,1999
+ischemic,55-64 years,Minnesota,Male,2006,-0.0261614,-0.0051997,0.0209617,0.0000000,significant_decrease,0.253524827,27,1999
+ischemic,55-64 years,Indiana,Male,2007,-0.0353607,-0.0051480,0.0302127,0.0000063,significant_decrease,0.505317558,27,1999
+ischemic,65-74 years,Arkansas,Male,2007,-0.0853627,-0.0050982,0.0802645,0.1653764,no_significant_change,1.38751621,27,1999
+ischemic,65-74 years,Rhode Island,Female,2015,-0.0363775,-0.0050374,0.0313401,0.1618175,no_significant_change,0.35312186,27,1999
+ischemic,55-64 years,Oregon,Male,2008,-0.0310870,-0.0050217,0.0260654,0.0001750,significant_decrease,0.311724567,27,1999
+ischemic,55-64 years,Michigan,Total,2007,-0.0232286,-0.0049538,0.0182749,0.0000011,significant_decrease,0.37967137,27,1999
+ischemic,65-74 years,Colorado,Female,2009,-0.0372680,-0.0047722,0.0324957,0.0001947,significant_decrease,0.248459232,27,1999
+ischemic,65-74 years,Connecticut,Female,2008,-0.0493721,-0.0047713,0.0446008,0.0000140,significant_decrease,0.269364744,27,1999
+ischemic,65-74 years,Nebraska,Female,2008,-0.0356819,-0.0047393,0.0309426,0.0020679,significant_decrease,0.254670187,27,1999
+ischemic,55-64 years,California,Male,2010,-0.0229781,-0.0046020,0.0183761,0.0000564,significant_decrease,0.398277198,27,1999
+ischemic,65-74 years,Washington,Total,2010,-0.0597711,-0.0045397,0.0552314,0.0161052,significant_decrease,0.569575756,27,1999
+ischemic,65-74 years,Colorado,Total,2010,-0.0477354,-0.0044984,0.0432370,0.0000988,significant_decrease,0.442044438,27,1999
+ischemic,65-74 years,Virginia,Female,2009,-0.0492835,-0.0044596,0.0448238,0.0000534,significant_decrease,0.365574802,27,1999
+ischemic,55-64 years,Nevada,Total,2004,-0.0396068,-0.0044554,0.0351514,0.0000474,significant_decrease,0.341052528,27,1999
+ischemic,55-64 years,Colorado,Male,2007,-0.0240123,-0.0043875,0.0196248,0.0001716,significant_decrease,0.305189684,27,1999
+ischemic,55-64 years,Wisconsin,Male,2006,-0.0300592,-0.0042898,0.0257694,0.0000710,significant_decrease,0.428658477,27,1999
+ischemic,55-64 years,District of Columbia,Female,2009,-0.0112603,-0.0042807,0.0069796,0.0720221,no_significant_change,0.271488047,27,1999
+ischemic,65-74 years,Florida,Total,2009,-0.0645850,-0.0042387,0.0603463,0.0000946,significant_decrease,0.603991623,27,1999
+ischemic,55-64 years,South Carolina,Total,2007,-0.0289959,-0.0042312,0.0247647,0.0000093,significant_decrease,0.364560668,27,1999
+ischemic,65-74 years,Arizona,Female,2011,-0.0362399,-0.0041915,0.0320484,0.0011926,significant_decrease,0.331722434,27,1999
+ischemic,55-64 years,Louisiana,Total,2011,-0.0168009,-0.0041528,0.0126482,0.0018326,significant_decrease,0.438162078,27,1999
+ischemic,55-64 years,Idaho,Total,2007,-0.0183864,-0.0041441,0.0142422,0.0004721,significant_decrease,0.236197278,27,1999
+ischemic,65-74 years,Connecticut,Total,2008,-0.0773335,-0.0040096,0.0733239,0.0071860,significant_decrease,0.472011751,27,1999
+ischemic,55-64 years,South Dakota,Total,2004,-0.0176876,-0.0039428,0.0137447,0.0026000,significant_decrease,0.328381496,27,1999
+heart_failure,75-84 years,Alaska,Female,2010,-0.0145531,-0.0039347,0.0106183,0.1742584,no_significant_change,0.303270082,18,1999
+ischemic,65-74 years,Arkansas,Female,2011,-0.0293124,-0.0038511,0.0254613,0.2095665,no_significant_change,0.591916085,27,1999
+ischemic,65-74 years,Connecticut,Male,2008,-0.1127156,-0.0038172,0.1088983,0.1627758,no_significant_change,0.698312609,27,1999
+ischemic,55-64 years,Alabama,Female,2006,-0.0166933,-0.0037780,0.0129153,0.0000000,significant_decrease,0.167460347,27,1999
+ischemic,55-64 years,Georgia,Total,2007,-0.0325987,-0.0037386,0.0288601,0.0000004,significant_decrease,0.270479674,27,1999
+ischemic,65-74 years,Florida,Female,2009,-0.0461490,-0.0036857,0.0424633,0.0000020,significant_decrease,0.361362797,27,1999
+ischemic,55-64 years,North Dakota,Male,2007,-0.0456940,-0.0036689,0.0420251,0.0395942,significant_decrease,0.432700998,27,1999
+ischemic,55-64 years,Florida,Total,2007,-0.0239560,-0.0035759,0.0203801,0.0000000,significant_decrease,0.291754287,27,1999
+ischemic,75-84 years,Kansas,Total,2010,-0.1317853,-0.0035412,0.1282441,0.4766474,no_significant_change,1.600714076,27,1999
+ischemic,65-74 years,Washington,Male,2010,-0.0843364,-0.0034814,0.0808550,0.2451979,no_significant_change,0.846257242,27,1999
+ischemic,65-74 years,Idaho,Female,2011,-0.0334067,-0.0034709,0.0299357,0.1805245,no_significant_change,0.30454828,27,1999
+ischemic,55-64 years,Ohio,Male,2009,-0.0334121,-0.0033826,0.0300295,0.0320995,significant_decrease,0.510898467,27,1999
+ischemic,55-64 years,Nebraska,Male,2006,-0.0254385,-0.0033455,0.0220930,0.0425410,significant_decrease,0.303995835,27,1999
+ischemic,65-74 years,Mississippi,Female,2008,-0.0732671,-0.0033346,0.0699324,0.1011880,no_significant_change,0.592362515,27,1999
+ischemic,55-64 years,Wyoming,Male,2006,-0.0339359,-0.0032853,0.0306506,0.1815473,no_significant_change,0.443504493,27,1999
+ischemic,65-74 years,Oregon,Total,2012,-0.0484170,-0.0032395,0.0451775,0.0862212,no_significant_change,0.447532941,27,1999
+ischemic,65-74 years,Oregon,Female,2012,-0.0328167,-0.0032348,0.0295819,0.0805615,no_significant_change,0.231928037,27,1999
+ischemic,55-64 years,Kentucky,Male,2006,-0.0418024,-0.0032072,0.0385952,0.0441798,significant_decrease,0.634024217,27,1999
+ischemic,55-64 years,Michigan,Female,2008,-0.0148191,-0.0031917,0.0116274,0.0000005,significant_decrease,0.207529784,27,1999
+ischemic,65-74 years,Utah,Female,2005,-0.0502740,-0.0031699,0.0471041,0.0039619,significant_decrease,0.228434406,27,1999
+ischemic,55-64 years,Missouri,Male,2005,-0.0350397,-0.0031176,0.0319220,0.0157682,significant_decrease,0.634714956,27,1999
+ischemic,55-64 years,Illinois,Female,2009,-0.0146520,-0.0030966,0.0115554,0.0000008,significant_decrease,0.140531986,27,1999
+heart_failure,65-74 years,Louisiana,Male,2021,0.0066510,-0.0030627,-0.0097137,0.6603901,no_significant_change,0.334276465,27,1999
+ischemic,55-64 years,Minnesota,Total,2006,-0.0178158,-0.0030473,0.0147686,0.0000000,significant_decrease,0.16380459,27,1999
+ischemic,55-64 years,New York,Male,2010,-0.0316669,-0.0030344,0.0286325,0.0094204,significant_decrease,0.458882457,27,1999
+ischemic,75-84 years,Kansas,Female,2011,-0.0989333,-0.0030064,0.0959269,0.5076632,no_significant_change,1.090763467,27,1999
+heart_failure,75-84 years,Montana,Female,2011,-0.0174842,-0.0029710,0.0145132,0.3968146,no_significant_change,0.355597949,27,1999
+ischemic,55-64 years,Texas,Female,2008,-0.0135196,-0.0029708,0.0105488,0.0000016,significant_decrease,0.172165014,27,1999
+ischemic,55-64 years,Indiana,Total,2007,-0.0261568,-0.0028762,0.0232806,0.0000194,significant_decrease,0.347588817,27,1999
+ischemic,55-64 years,North Carolina,Total,2008,-0.0244226,-0.0028613,0.0215612,0.0005785,significant_decrease,0.344764498,27,1999
+ischemic,75-84 years,Kansas,Male,2010,-0.1781751,-0.0028230,0.1753522,0.6759427,no_significant_change,2.229362367,27,1999
+ischemic,55-64 years,California,Total,2010,-0.0170221,-0.0028065,0.0142157,0.0001623,significant_decrease,0.260862185,27,1999
+ischemic,85+ years,Utah,Total,2009,-0.2453055,-0.0027382,0.2425674,0.8291667,no_significant_change,4.556716792,27,1999
+ischemic,55-64 years,New Jersey,Female,2009,-0.0110277,-0.0027338,0.0082939,0.0000027,significant_decrease,0.109397401,27,1999
+ischemic,55-64 years,Colorado,Total,2007,-0.0160657,-0.0026923,0.0133734,0.0001422,significant_decrease,0.199408544,27,1999
+ischemic,65-74 years,Missouri,Female,2011,-0.0428545,-0.0025898,0.0402647,0.1500718,no_significant_change,0.504676144,27,1999
+ischemic,55-64 years,Tennessee,Male,2007,-0.0351353,-0.0024456,0.0326897,0.1082759,no_significant_change,0.732916418,27,1999
+ischemic,55-64 years,North Dakota,Total,2007,-0.0311125,-0.0024116,0.0287009,0.0193531,significant_decrease,0.281832199,27,1999
+ischemic,55-64 years,Wisconsin,Total,2006,-0.0212905,-0.0023774,0.0189130,0.0004964,significant_decrease,0.285540897,27,1999
+ischemic,55-64 years,Iowa,Male,2007,-0.0232986,-0.0023747,0.0209239,0.1382768,no_significant_change,0.526728968,27,1999
+heart_failure,75-84 years,Wyoming,Female,2005,-0.0193273,-0.0023621,0.0169652,0.2813608,no_significant_change,0.373924199,27,1999
+ischemic,55-64 years,Arizona,Female,2008,-0.0115710,-0.0022649,0.0093061,0.0001486,significant_decrease,0.139942732,27,1999
+ischemic,55-64 years,Maryland,Female,2014,-0.0092224,-0.0022586,0.0069638,0.0251509,significant_decrease,0.152311349,27,1999
+ischemic,65-74 years,Nevada,Female,2008,-0.0395119,-0.0022199,0.0372920,0.2884650,no_significant_change,0.434663901,27,1999
+heart_failure,75-84 years,Hawaii,Male,2017,0.0033995,-0.0022059,-0.0056054,0.6423498,no_significant_change,0.284519215,27,1999
+ischemic,65-74 years,Oregon,Male,2012,-0.0677124,-0.0022012,0.0655111,0.4539538,no_significant_change,0.687424009,27,1999
+ischemic,55-64 years,Massachusetts,Female,2010,-0.0098114,-0.0021708,0.0076406,0.0000247,significant_decrease,0.084291803,27,1999
+heart_failure,65-74 years,Hawaii,Female,2004,0.0039105,-0.0021530,-0.0060636,0.0039913,significant_decrease,0.046226322,12,2000
+ischemic,65-74 years,West Virginia,Female,2009,-0.0563649,-0.0021484,0.0542165,0.3668978,no_significant_change,0.594702166,27,1999
+ischemic,55-64 years,California,Female,2009,-0.0123521,-0.0019930,0.0103591,0.0000136,significant_decrease,0.12567899,27,1999
+ischemic,55-64 years,Rhode Island,Total,2012,-0.0205533,-0.0019360,0.0186173,0.3383191,no_significant_change,0.27887165,27,1999
+heart_failure,55-64 years,Colorado,Male,2021,0.0013627,-0.0019021,-0.0032648,0.0349184,significant_decrease,0.036453333,25,2001
+ischemic,55-64 years,Florida,Female,2007,-0.0126913,-0.0017431,0.0109481,0.0000350,significant_decrease,0.149687833,27,1999
+ischemic,55-64 years,Ohio,Total,2009,-0.0238924,-0.0017226,0.0221698,0.0821844,no_significant_change,0.35290373,27,1999
+ischemic,55-64 years,Oregon,Total,2010,-0.0181145,-0.0016721,0.0164424,0.0350136,significant_decrease,0.206343688,27,1999
+ischemic,55-64 years,Minnesota,Female,2003,-0.0179446,-0.0015363,0.0164083,0.0000089,significant_decrease,0.073416994,27,1999
+ischemic,55-64 years,Pennsylvania,Male,2010,-0.0298217,-0.0014520,0.0283698,0.1700809,no_significant_change,0.460486907,27,1999
+ischemic,55-64 years,Georgia,Female,2007,-0.0212426,-0.0014351,0.0198075,0.0057222,significant_decrease,0.153060707,27,1999
+ischemic,55-64 years,Idaho,Female,2007,-0.0087182,-0.0014104,0.0073077,0.0769745,no_significant_change,0.118360013,27,1999
+ischemic,55-64 years,Nevada,Female,2007,-0.0124427,-0.0013404,0.0111022,0.2048491,no_significant_change,0.176275258,27,1999
+heart_failure,65-74 years,Delaware,Female,2003,0.0033754,-0.0013311,-0.0047066,0.0368135,significant_decrease,0.075024556,15,1999
+ischemic,65-74 years,Washington,Female,2012,-0.0354777,-0.0013294,0.0341483,0.3522941,no_significant_change,0.317802224,27,1999
+ischemic,55-64 years,Nebraska,Total,2007,-0.0181615,-0.0012929,0.0168685,0.2055162,no_significant_change,0.210315894,27,1999
+ischemic,65-74 years,Minnesota,Female,2010,-0.0286576,-0.0012064,0.0274513,0.2812062,no_significant_change,0.191600715,27,1999
+heart_failure,65-74 years,Montana,Total,2007,-0.0060056,-0.0011696,0.0048360,0.0614443,no_significant_change,0.086071831,20,1999
+ischemic,55-64 years,South Carolina,Female,2007,-0.0193027,-0.0011521,0.0181506,0.1110945,no_significant_change,0.199075323,27,1999
+ischemic,55-64 years,Virginia,Total,2009,-0.0189027,-0.0011203,0.0177824,0.1391127,no_significant_change,0.290516631,27,1999
+ischemic,55-64 years,New York,Total,2011,-0.0217017,-0.0011104,0.0205913,0.1644909,no_significant_change,0.307091992,27,1999
+ischemic,55-64 years,Louisiana,Female,2013,-0.0101385,-0.0010835,0.0090550,0.4049886,no_significant_change,0.26513474,27,1999
+ischemic,55-64 years,Connecticut,Male,2007,-0.0381209,-0.0010366,0.0370843,0.3380918,no_significant_change,0.357242492,27,1999
+ischemic,55-64 years,Wisconsin,Female,2004,-0.0192560,-0.0010347,0.0182213,0.0411384,significant_decrease,0.142803874,27,1999
+ischemic,55-64 years,Indiana,Female,2007,-0.0176656,-0.0009901,0.0166756,0.0732626,no_significant_change,0.194164616,27,1999
+ischemic,55-64 years,New York,Female,2011,-0.0152677,-0.0009202,0.0143476,0.0838556,no_significant_change,0.163672616,27,1999
+ischemic,55-64 years,Iowa,Total,2007,-0.0161764,-0.0009059,0.0152704,0.3156190,no_significant_change,0.363533508,27,1999
+ischemic,55-64 years,Washington,Male,2009,-0.0260260,-0.0008402,0.0251858,0.5608679,no_significant_change,0.407448838,27,1999
+ischemic,55-64 years,Missouri,Total,2007,-0.0200110,-0.0007877,0.0192233,0.4371911,no_significant_change,0.442644031,27,1999
+ischemic,55-64 years,Kentucky,Total,2007,-0.0259070,-0.0007555,0.0251515,0.4526400,no_significant_change,0.455453434,27,1999
+ischemic,55-64 years,South Dakota,Female,2003,-0.0155416,-0.0006521,0.0148896,0.5158215,no_significant_change,0.176043289,27,1999
+ischemic,55-64 years,Tennessee,Total,2008,-0.0215890,-0.0006419,0.0209471,0.5446901,no_significant_change,0.51219531,27,1999
+heart_failure,75-84 years,Massachusetts,Female,2011,-0.0100140,-0.0006025,0.0094115,0.6509427,no_significant_change,0.349521169,27,1999
+ischemic,55-64 years,Virginia,Male,2011,-0.0241316,-0.0005993,0.0235323,0.6376358,no_significant_change,0.427132326,27,1999
+ischemic,55-64 years,Virginia,Female,2007,-0.0128038,-0.0005495,0.0122542,0.2340319,no_significant_change,0.160249162,27,1999
+ischemic,55-64 years,Pennsylvania,Total,2010,-0.0209654,-0.0005244,0.0204410,0.4432141,no_significant_change,0.310559025,27,1999
+ischemic,55-64 years,Kansas,Male,2007,-0.0254357,-0.0004652,0.0249705,0.7334969,no_significant_change,0.47966713,27,1999
+ischemic,55-64 years,North Carolina,Female,2008,-0.0155170,-0.0004402,0.0150769,0.2684249,no_significant_change,0.19096014,27,1999
+ischemic,55-64 years,Hawaii,Male,2003,-0.0632182,-0.0004129,0.0628053,0.7514004,no_significant_change,0.450693274,27,1999
+ischemic,55-64 years,Connecticut,Total,2007,-0.0270305,-0.0004020,0.0266285,0.5699226,no_significant_change,0.234044119,27,1999
+ischemic,55-64 years,Ohio,Female,2009,-0.0156988,-0.0003693,0.0153295,0.5837783,no_significant_change,0.200568177,27,1999
+ischemic,55-64 years,North Dakota,Female,2008,-0.0168006,-0.0003592,0.0164414,0.7966076,no_significant_change,0.124429511,27,1999
+heart_failure,65-74 years,Montana,Female,2005,-0.0067422,-0.0003564,0.0063857,0.4971918,no_significant_change,0.083670729,20,1999
+ischemic,65-74 years,Hawaii,Female,2010,-0.0279095,-0.0003142,0.0275953,0.8483442,no_significant_change,0.303384677,27,1999
+ischemic,55-64 years,Utah,Total,2010,-0.0097224,-0.0002483,0.0094740,0.7828829,no_significant_change,0.199226727,27,1999
+ischemic,55-64 years,Colorado,Female,2010,-0.0066473,-0.0002423,0.0064051,0.6162544,no_significant_change,0.095354246,27,1999
+ischemic,65-74 years,Maine,Total,2011,-0.0594654,-0.0001817,0.0592838,0.9319859,no_significant_change,0.530833814,27,1999
+ischemic,55-64 years,Rhode Island,Female,2010,-0.0158288,-0.0001764,0.0156523,0.8954320,no_significant_change,0.154842309,27,1999
+ischemic,55-64 years,Missouri,Female,2007,-0.0137965,-0.0001145,0.0136820,0.8975078,no_significant_change,0.258227713,27,1999
+ischemic,55-64 years,Iowa,Female,2004,-0.0187439,-0.0000836,0.0186603,0.8847090,no_significant_change,0.200665463,27,1999
+heart_failure,55-64 years,Vermont,Female,2006,0.0000000,0.0000000,0.0000000,1.0000000,no_significant_change,0,11,2002
+ischemic,55-64 years,New Hampshire,Male,2008,-0.0360300,0.0001094,0.0361394,0.9438600,no_significant_change,0.3959572,27,1999
+ischemic,55-64 years,Tennessee,Female,2008,-0.0120632,0.0001274,0.0121906,0.8781612,no_significant_change,0.304332356,27,1999
+heart_failure,65-74 years,South Dakota,Male,2011,-0.0066658,0.0001570,0.0068228,0.9136797,no_significant_change,0.073234287,14,1999
+ischemic,55-64 years,Oregon,Female,2011,-0.0087592,0.0001691,0.0089283,0.7903803,no_significant_change,0.104440113,27,1999
+heart_failure,75-84 years,Wyoming,Total,2011,-0.0084918,0.0001934,0.0086852,0.9399633,no_significant_change,0.423949447,27,1999
+ischemic,55-64 years,Pennsylvania,Female,2010,-0.0133944,0.0002120,0.0136064,0.6889984,no_significant_change,0.165924965,27,1999
+ischemic,65-74 years,Nevada,Total,2008,-0.0645911,0.0002221,0.0648132,0.9292221,no_significant_change,0.765330505,27,1999
+heart_failure,55-64 years,Utah,Total,2019,0.0008485,0.0002747,-0.0005737,0.6563488,no_significant_change,0.032244715,12,2012
+heart_failure,65-74 years,Montana,Male,2010,-0.0070415,0.0002865,0.0073280,0.8140224,no_significant_change,0.102524853,27,1999
+ischemic,55-64 years,Kansas,Female,2003,-0.0359250,0.0003326,0.0362576,0.6451956,no_significant_change,0.181324793,27,1999
+ischemic,55-64 years,Wyoming,Total,2010,-0.0138870,0.0003398,0.0142268,0.8188002,no_significant_change,0.306324538,26,1999
+heart_failure,55-64 years,New York,Female,2009,-0.0004667,0.0003508,0.0008175,0.0017939,significant_increase,0.018311248,27,1999
+heart_failure,75-84 years,Massachusetts,Total,2009,-0.0131136,0.0003892,0.0135028,0.6870105,no_significant_change,0.406549103,27,1999
+heart_failure,55-64 years,Massachusetts,Female,2008,-0.0003751,0.0003994,0.0007745,0.0142994,significant_increase,0.019437767,27,1999
+heart_failure,55-64 years,Maryland,Female,2004,-0.0024746,0.0004121,0.0028866,0.0041725,significant_increase,0.019924733,27,1999
+heart_failure,55-64 years,Minnesota,Female,2010,-0.0004194,0.0004705,0.0008899,0.0076113,significant_increase,0.015094169,17,2000
+heart_failure,55-64 years,Colorado,Female,2007,-0.0013566,0.0005046,0.0018611,0.0012417,significant_increase,0.018211143,26,2000
+ischemic,55-64 years,Connecticut,Female,2008,-0.0151582,0.0005119,0.0156701,0.3227102,no_significant_change,0.117302609,27,1999
+ischemic,55-64 years,New Hampshire,Total,2008,-0.0265661,0.0005200,0.0270861,0.6014210,no_significant_change,0.258735223,27,1999
+ischemic,55-64 years,Utah,Female,2008,-0.0074000,0.0005527,0.0079527,0.4424704,no_significant_change,0.097058299,27,1999
+heart_failure,55-64 years,New Jersey,Female,2011,-0.0002891,0.0005628,0.0008519,0.0013733,significant_increase,0.018382612,27,1999
+ischemic,55-64 years,Hawaii,Total,2005,-0.0320725,0.0005860,0.0326585,0.5256139,no_significant_change,0.291692548,27,1999
+ischemic,55-64 years,Washington,Female,2010,-0.0093245,0.0006374,0.0099619,0.3169918,no_significant_change,0.130938458,27,1999
+ischemic,55-64 years,Nebraska,Female,2008,-0.0130389,0.0006639,0.0137028,0.4048438,no_significant_change,0.116039479,27,1999
+heart_failure,55-64 years,Massachusetts,Total,2007,-0.0007250,0.0006774,0.0014024,0.0000122,significant_increase,0.026870937,27,1999
+ischemic,55-64 years,Kansas,Total,2007,-0.0203291,0.0006960,0.0210251,0.4673484,no_significant_change,0.32887569,27,1999
+ischemic,55-64 years,Delaware,Female,2011,-0.0138023,0.0007129,0.0145152,0.6367109,no_significant_change,0.174056882,27,1999
+heart_failure,75-84 years,Wyoming,Male,2010,-0.0082180,0.0007180,0.0089359,0.8836361,no_significant_change,0.477011853,27,1999
+heart_failure,55-64 years,New York,Total,2009,-0.0006090,0.0007342,0.0013432,0.0000000,significant_increase,0.027567757,27,1999
+ischemic,55-64 years,Kentucky,Female,2007,-0.0162867,0.0007773,0.0170640,0.4193704,no_significant_change,0.284881265,27,1999
+heart_failure,55-64 years,Utah,Male,2011,-0.0019701,0.0007869,0.0027570,0.0810984,no_significant_change,0.039477156,19,2004
+heart_failure,75-84 years,New York,Female,2009,-0.0073213,0.0008049,0.0081262,0.2104571,no_significant_change,0.26565643,27,1999
+heart_failure,65-74 years,Massachusetts,Female,2010,-0.0029148,0.0008153,0.0037300,0.0333554,significant_increase,0.068968978,27,1999
+heart_failure,55-64 years,Colorado,Total,2007,-0.0002160,0.0008376,0.0010536,0.0000002,significant_increase,0.027254134,25,2001
+heart_failure,55-64 years,Minnesota,Total,2012,-0.0004261,0.0008585,0.0012847,0.0006201,significant_increase,0.021392925,17,2000
+heart_failure,55-64 years,Massachusetts,Male,2005,-0.0017298,0.0009034,0.0026332,0.0000168,significant_increase,0.034684322,27,1999
+ischemic,55-64 years,Utah,Male,2014,-0.0111042,0.0009134,0.0120176,0.7188478,no_significant_change,0.301318972,27,1999
+heart_failure,55-64 years,Idaho,Male,2010,-0.0019463,0.0009474,0.0028937,0.1651036,no_significant_change,0.040418302,12,2004
+ischemic,55-64 years,New Hampshire,Female,2008,-0.0170729,0.0009497,0.0180226,0.3746647,no_significant_change,0.124208447,27,1999
+heart_failure,55-64 years,California,Female,2012,-0.0001756,0.0010026,0.0011782,0.0000000,significant_increase,0.026992046,27,1999
+ischemic,65-74 years,Maine,Male,2011,-0.0801317,0.0010093,0.0811410,0.7772242,no_significant_change,0.796846354,27,1999
+ischemic,65-74 years,Hawaii,Total,2010,-0.0375804,0.0010155,0.0385958,0.6578463,no_significant_change,0.569664899,27,1999
+heart_failure,55-64 years,Florida,Female,2008,-0.0003337,0.0010168,0.0013504,0.0000000,significant_increase,0.026147602,27,1999
+heart_failure,75-84 years,Hawaii,Female,2004,-0.0150181,0.0010235,0.0160416,0.4250889,no_significant_change,0.16495647,27,1999
+heart_failure,65-74 years,Idaho,Female,2005,-0.0039879,0.0010557,0.0050435,0.0513274,no_significant_change,0.084992695,24,1999
+heart_failure,55-64 years,Washington,Female,2013,-0.0001395,0.0011053,0.0012448,0.0000251,significant_increase,0.020679589,24,1999
+heart_failure,65-74 years,New York,Female,2010,-0.0031765,0.0011101,0.0042866,0.0000042,significant_increase,0.060694437,27,1999
+heart_failure,55-64 years,New York,Male,2009,-0.0007807,0.0011264,0.0019070,0.0000000,significant_increase,0.037367532,27,1999
+heart_failure,55-64 years,Maryland,Total,2010,-0.0008687,0.0011362,0.0020049,0.0000003,significant_increase,0.028563279,27,1999
+heart_failure,55-64 years,Pennsylvania,Female,2012,-0.0006456,0.0011375,0.0017831,0.0000002,significant_increase,0.029055989,27,1999
+heart_failure,55-64 years,Connecticut,Total,2011,-0.0009359,0.0011430,0.0020789,0.0000001,significant_increase,0.028079921,15,2000
+heart_failure,55-64 years,New Jersey,Total,2012,-0.0002455,0.0011459,0.0013914,0.0000000,significant_increase,0.028797178,27,1999
+ischemic,85+ years,Mississippi,Male,2012,-0.4144759,0.0011780,0.4156539,0.9694212,no_significant_change,6.134808257,27,1999
+ischemic,55-64 years,Alaska,Female,2007,-0.0121789,0.0012694,0.0134483,0.2797327,no_significant_change,0.137582388,27,1999
+heart_failure,55-64 years,Oregon,Female,2011,-0.0005375,0.0012731,0.0018107,0.0000326,significant_increase,0.028359649,24,1999
+heart_failure,55-64 years,Texas,Female,2011,-0.0007743,0.0013136,0.0020878,0.0000000,significant_increase,0.042465239,27,1999
+heart_failure,65-74 years,Massachusetts,Total,2010,-0.0034229,0.0013185,0.0047414,0.0002640,significant_increase,0.090258853,27,1999
+ischemic,55-64 years,Washington,Total,2011,-0.0156986,0.0013231,0.0170217,0.2148689,no_significant_change,0.268508906,27,1999
+heart_failure,65-74 years,Maine,Total,2004,-0.0084385,0.0013748,0.0098133,0.0031733,significant_increase,0.08708422,23,1999
+heart_failure,55-64 years,Michigan,Female,2012,-0.0001149,0.0013793,0.0014941,0.0000000,significant_increase,0.036598842,27,1999
+ischemic,55-64 years,Hawaii,Female,2007,-0.0189938,0.0013837,0.0203775,0.1355963,no_significant_change,0.135402607,27,1999
+heart_failure,55-64 years,Minnesota,Male,2013,-0.0004682,0.0013876,0.0018558,0.0000503,significant_increase,0.027646653,27,1999
+heart_failure,55-64 years,Virginia,Female,2010,-0.0007016,0.0014374,0.0021390,0.0000000,significant_increase,0.039491676,27,1999
+heart_failure,65-74 years,New Jersey,Female,2010,-0.0034537,0.0014428,0.0048965,0.0000096,significant_increase,0.063192408,27,1999
+ischemic,65-74 years,Kansas,Total,2009,-0.0586198,0.0014494,0.0600692,0.5170606,no_significant_change,0.672334813,27,1999
+heart_failure,55-64 years,Nebraska,Female,2015,-0.0007912,0.0014580,0.0022492,0.0758061,no_significant_change,0.03520521,12,2006
+heart_failure,65-74 years,Delaware,Total,2012,-0.0026060,0.0014603,0.0040663,0.4436714,no_significant_change,0.106541998,14,1999
+heart_failure,75-84 years,New York,Total,2008,-0.0080186,0.0014782,0.0094968,0.0080057,significant_increase,0.306131832,27,1999
+heart_failure,55-64 years,Connecticut,Male,2010,-0.0009327,0.0015335,0.0024663,0.0000080,significant_increase,0.03513398,23,2000
+heart_failure,55-64 years,Washington,Total,2011,-0.0002525,0.0015758,0.0018282,0.0000000,significant_increase,0.03020322,23,1999
+heart_failure,55-64 years,Illinois,Female,2014,-0.0000041,0.0015820,0.0015861,0.0000003,significant_increase,0.041347862,27,1999
+heart_failure,65-74 years,New York,Total,2010,-0.0030481,0.0015982,0.0046463,0.0000000,significant_increase,0.07821245,27,1999
+heart_failure,55-64 years,Maryland,Male,2010,-0.0009190,0.0016146,0.0025337,0.0000009,significant_increase,0.037895268,27,1999
+heart_failure,55-64 years,Wisconsin,Female,2014,-0.0003686,0.0016460,0.0020146,0.0000026,significant_increase,0.026640255,27,1999
+heart_failure,55-64 years,Ohio,Female,2008,-0.0016686,0.0016498,0.0033184,0.0000000,significant_increase,0.039575351,27,1999
+heart_failure,55-64 years,Pennsylvania,Total,2012,-0.0004182,0.0016613,0.0020795,0.0000000,significant_increase,0.04177074,27,1999
+heart_failure,75-84 years,Hawaii,Total,2003,-0.0124217,0.0016894,0.0141111,0.1136819,no_significant_change,0.220113638,27,1999
+heart_failure,55-64 years,West Virginia,Female,2011,-0.0016826,0.0017100,0.0033926,0.0005776,significant_increase,0.046180534,25,1999
+heart_failure,65-74 years,Minnesota,Total,2009,-0.0037893,0.0017125,0.0055019,0.0000248,significant_increase,0.072508933,27,1999
+ischemic,65-74 years,Nevada,Male,2007,-0.1010062,0.0017401,0.1027463,0.6049432,no_significant_change,1.125373929,27,1999
+ischemic,55-64 years,Alaska,Total,2006,-0.0189108,0.0017506,0.0206614,0.2948456,no_significant_change,0.308724605,27,1999
+heart_failure,55-64 years,Kentucky,Female,2011,-0.0014911,0.0017536,0.0032447,0.0012786,significant_increase,0.055193602,27,1999
+heart_failure,65-74 years,Hawaii,Total,2021,-0.0013305,0.0017661,0.0030967,0.4260704,no_significant_change,0.069731618,11,2004
+heart_failure,55-64 years,Texas,Total,2011,-0.0002873,0.0017720,0.0020593,0.0000000,significant_increase,0.057413211,27,1999
+heart_failure,55-64 years,Arizona,Female,2014,-0.0003330,0.0017821,0.0021152,0.0000001,significant_increase,0.024422398,21,1999
+heart_failure,65-74 years,Minnesota,Female,2009,-0.0030472,0.0017886,0.0048358,0.0007413,significant_increase,0.059850655,27,1999
+heart_failure,55-64 years,Michigan,Total,2011,-0.0000279,0.0018075,0.0018354,0.0000000,significant_increase,0.047406192,27,1999
+heart_failure,55-64 years,New Jersey,Male,2013,-0.0001634,0.0018196,0.0019830,0.0000000,significant_increase,0.039670161,27,1999
+heart_failure,55-64 years,Nevada,Female,2013,-0.0018498,0.0018209,0.0036707,0.0017608,significant_increase,0.034214357,20,2002
+heart_failure,65-74 years,Massachusetts,Male,2010,-0.0041500,0.0018413,0.0059913,0.0007365,significant_increase,0.114380291,27,1999
+heart_failure,55-64 years,Illinois,Total,2011,0.0001801,0.0018462,0.0016661,0.0000000,significant_increase,0.056040776,27,1999
+heart_failure,55-64 years,Wisconsin,Total,2015,-0.0003245,0.0018467,0.0021711,0.0000000,significant_increase,0.033311535,27,1999
+ischemic,55-64 years,Maine,Female,2011,-0.0114981,0.0018596,0.0133578,0.1378840,no_significant_change,0.120884307,27,1999
+heart_failure,55-64 years,Indiana,Female,2011,-0.0008981,0.0018901,0.0027882,0.0000009,significant_increase,0.047057551,27,1999
+heart_failure,55-64 years,Florida,Total,2010,0.0002569,0.0018991,0.0016422,0.0000000,significant_increase,0.040476947,27,1999
+ischemic,65-74 years,Kansas,Female,2010,-0.0398853,0.0019158,0.0418011,0.3578125,no_significant_change,0.396005155,27,1999
+heart_failure,65-74 years,Colorado,Female,2010,-0.0041219,0.0019241,0.0060460,0.0032929,significant_increase,0.065920414,27,1999
+heart_failure,75-84 years,Vermont,Female,2006,-0.0132754,0.0019455,0.0152209,0.3382350,no_significant_change,0.251541061,20,1999
+heart_failure,65-74 years,Maryland,Female,2011,-0.0026555,0.0019740,0.0046295,0.0000119,significant_increase,0.06600915,27,1999
+heart_failure,55-64 years,South Carolina,Female,2015,-0.0000069,0.0019965,0.0020034,0.0004755,significant_increase,0.059317731,27,1999
+ischemic,55-64 years,Rhode Island,Male,2016,-0.0241163,0.0020283,0.0261446,0.7125350,no_significant_change,0.411249027,27,1999
+heart_failure,55-64 years,California,Total,2012,-0.0000035,0.0020575,0.0020610,0.0000000,significant_increase,0.044378247,27,1999
+heart_failure,65-74 years,New York,Male,2010,-0.0029219,0.0020744,0.0049963,0.0000001,significant_increase,0.098116,27,1999
+heart_failure,55-64 years,Ohio,Total,2007,-0.0015969,0.0021023,0.0036992,0.0000000,significant_increase,0.053811869,27,1999
+heart_failure,65-74 years,Maine,Male,2004,-0.0127402,0.0021146,0.0148548,0.0023498,significant_increase,0.105444135,26,1999
+ischemic,65-74 years,Kansas,Male,2009,-0.0796777,0.0021219,0.0817996,0.4899463,no_significant_change,0.97046347,27,1999
+heart_failure,65-74 years,Minnesota,Male,2011,-0.0038415,0.0021245,0.0059661,0.0001047,significant_increase,0.085809193,27,1999
+heart_failure,55-64 years,Georgia,Female,2008,-0.0014255,0.0021311,0.0035566,0.0000000,significant_increase,0.068613823,27,1999
+heart_failure,55-64 years,Connecticut,Female,2018,-0.0003859,0.0021322,0.0025182,0.0000000,significant_increase,0.021391371,18,1999
+heart_failure,55-64 years,Washington,Male,2011,-0.0001803,0.0021474,0.0023277,0.0000000,significant_increase,0.039820065,26,1999
+ischemic,65-74 years,Hawaii,Male,2010,-0.0527618,0.0021592,0.0549210,0.5706959,no_significant_change,0.854952779,27,1999
+heart_failure,55-64 years,Virginia,Total,2010,-0.0004058,0.0021893,0.0025951,0.0000000,significant_increase,0.056189229,27,1999
+heart_failure,55-64 years,Pennsylvania,Male,2012,-0.0001840,0.0021938,0.0023778,0.0000000,significant_increase,0.054952727,27,1999
+heart_failure,65-74 years,Colorado,Total,2009,-0.0037663,0.0021975,0.0059638,0.0000105,significant_increase,0.083797694,27,1999
+heart_failure,55-64 years,Texas,Male,2011,0.0002405,0.0022151,0.0019745,0.0000000,significant_increase,0.072784979,27,1999
+heart_failure,55-64 years,Wisconsin,Male,2016,-0.0003429,0.0022266,0.0025694,0.0000014,significant_increase,0.040009464,27,1999
+heart_failure,65-74 years,Colorado,Male,2006,-0.0050396,0.0022304,0.0072699,0.0004353,significant_increase,0.103194051,27,1999
+heart_failure,55-64 years,Oregon,Total,2011,-0.0001899,0.0022471,0.0024370,0.0000000,significant_increase,0.045248805,24,1999
+heart_failure,75-84 years,Minnesota,Male,2010,-0.0189316,0.0022937,0.0212253,0.2735112,no_significant_change,0.363453471,27,1999
+heart_failure,65-74 years,Wisconsin,Female,2010,-0.0031301,0.0023198,0.0054499,0.0000164,significant_increase,0.090234665,27,1999
+heart_failure,55-64 years,Michigan,Male,2011,0.0001630,0.0023207,0.0021577,0.0000000,significant_increase,0.0585195,27,1999
+heart_failure,55-64 years,Kentucky,Total,2010,-0.0019428,0.0023583,0.0043012,0.0000006,significant_increase,0.072700555,27,1999
+heart_failure,55-64 years,Louisiana,Female,2011,0.0000691,0.0023670,0.0022979,0.0000000,significant_increase,0.085656354,27,1999
+heart_failure,55-64 years,Kansas,Female,2014,-0.0008962,0.0023731,0.0032693,0.0000180,significant_increase,0.043305286,25,1999
+heart_failure,65-74 years,New Hampshire,Female,2018,-0.0017495,0.0023892,0.0041387,0.1509658,no_significant_change,0.071919213,15,2008
+ischemic,55-64 years,Wyoming,Female,2010,-0.0079654,0.0024058,0.0103711,0.1459730,no_significant_change,0.166449218,26,1999
+heart_failure,55-64 years,Illinois,Male,2011,0.0006011,0.0024101,0.0018090,0.0000000,significant_increase,0.071182464,27,1999
+heart_failure,75-84 years,Massachusetts,Male,2009,-0.0167515,0.0024369,0.0191884,0.1458110,no_significant_change,0.480848905,27,1999
+heart_failure,55-64 years,Missouri,Female,2010,-0.0006510,0.0024394,0.0030904,0.0000000,significant_increase,0.053462268,27,1999
+heart_failure,55-64 years,North Carolina,Female,2011,-0.0003743,0.0024399,0.0028142,0.0000000,significant_increase,0.050584811,27,1999
+heart_failure,55-64 years,Nevada,Total,2012,-0.0022574,0.0024444,0.0047017,0.0000017,significant_increase,0.049749945,19,2002
+heart_failure,65-74 years,New Jersey,Total,2010,-0.0031759,0.0024786,0.0056545,0.0000001,significant_increase,0.089725618,27,1999
+heart_failure,55-64 years,Tennessee,Female,2010,-0.0005092,0.0024855,0.0029947,0.0000000,significant_increase,0.051409175,27,1999
+heart_failure,65-74 years,Connecticut,Female,2011,-0.0026491,0.0024965,0.0051456,0.0000247,significant_increase,0.070956468,27,1999
+heart_failure,75-84 years,New York,Male,2008,-0.0085082,0.0024986,0.0110068,0.0051736,significant_increase,0.360259967,27,1999
+heart_failure,55-64 years,New Mexico,Male,2011,-0.0019814,0.0025082,0.0044896,0.0002890,significant_increase,0.049418985,14,2003
+heart_failure,55-64 years,Utah,Female,2021,-0.0004653,0.0025285,0.0029938,0.0540943,no_significant_change,0.025023462,12,2012
+heart_failure,65-74 years,Wisconsin,Total,2010,-0.0037044,0.0026194,0.0063238,0.0000000,significant_increase,0.106967515,27,1999
+heart_failure,65-74 years,Wisconsin,Male,2009,-0.0051547,0.0026313,0.0077861,0.0000074,significant_increase,0.124417986,27,1999
+heart_failure,65-74 years,Washington,Female,2010,-0.0006870,0.0026338,0.0033208,0.0000009,significant_increase,0.069874978,27,1999
+heart_failure,55-64 years,Indiana,Total,2012,-0.0008063,0.0026462,0.0034525,0.0000000,significant_increase,0.063492923,27,1999
+heart_failure,55-64 years,Ohio,Male,2007,-0.0011164,0.0026676,0.0037839,0.0000000,significant_increase,0.06857432,27,1999
+heart_failure,55-64 years,South Carolina,Total,2011,-0.0003162,0.0026862,0.0030025,0.0000001,significant_increase,0.085227998,27,1999
+ischemic,55-64 years,Maine,Total,2012,-0.0174317,0.0027363,0.0201680,0.0273131,significant_increase,0.251954273,27,1999
+heart_failure,55-64 years,Florida,Male,2010,0.0006594,0.0027450,0.0020856,0.0000000,significant_increase,0.055756773,27,1999
+ischemic,65-74 years,West Virginia,Total,2010,-0.0729248,0.0027551,0.0756799,0.3460971,no_significant_change,0.939369379,27,1999
+heart_failure,65-74 years,Maryland,Total,2011,-0.0031938,0.0027706,0.0059644,0.0000000,significant_increase,0.082456557,27,1999
+heart_failure,55-64 years,Arizona,Total,2013,-0.0005181,0.0028194,0.0033375,0.0000000,significant_increase,0.039901029,21,1999
+heart_failure,65-74 years,Pennsylvania,Female,2011,-0.0027463,0.0028791,0.0056255,0.0000006,significant_increase,0.099015666,27,1999
+heart_failure,55-64 years,West Virginia,Total,2013,-0.0011748,0.0029016,0.0040764,0.0000000,significant_increase,0.059032303,25,1999
+heart_failure,75-84 years,Kentucky,Female,2011,-0.0220057,0.0029316,0.0249373,0.2270490,no_significant_change,0.538982237,27,1999
+ischemic,55-64 years,Alaska,Male,2006,-0.0228177,0.0029604,0.0257781,0.2983384,no_significant_change,0.464326503,27,1999
+ischemic,55-64 years,Delaware,Male,2018,-0.0207971,0.0030079,0.0238050,0.7416311,no_significant_change,0.415037081,27,1999
+heart_failure,55-64 years,Nebraska,Total,2014,-0.0017651,0.0030304,0.0047955,0.0013949,significant_increase,0.052578672,12,2006
+heart_failure,55-64 years,Nevada,Male,2011,-0.0029496,0.0030722,0.0060218,0.0000000,significant_increase,0.065070325,26,1999
+heart_failure,55-64 years,Oregon,Male,2010,-0.0000666,0.0030855,0.0031521,0.0000000,significant_increase,0.062710705,27,1999
+heart_failure,55-64 years,Virginia,Male,2011,0.0001364,0.0031024,0.0029660,0.0000000,significant_increase,0.073707224,27,1999
+heart_failure,55-64 years,California,Male,2012,0.0001903,0.0031034,0.0029131,0.0000000,significant_increase,0.062055316,27,1999
+heart_failure,55-64 years,Kentucky,Male,2010,-0.0021826,0.0031399,0.0053224,0.0000000,significant_increase,0.091019493,27,1999
+heart_failure,75-84 years,Maine,Total,2009,-0.0072374,0.0031445,0.0103820,0.0831397,no_significant_change,0.367766228,27,1999
+heart_failure,75-84 years,Mississippi,Total,2012,-0.0103225,0.0032081,0.0135306,0.3108111,no_significant_change,1.02548556,27,1999
+heart_failure,55-64 years,Arkansas,Female,2005,-0.0066648,0.0032215,0.0098863,0.0000000,significant_increase,0.07966162,27,1999
+heart_failure,65-74 years,Hawaii,Male,2020,0.0003501,0.0032366,0.0028865,0.2422469,no_significant_change,0.094929988,23,1999
+heart_failure,75-84 years,Maryland,Female,2010,-0.0131910,0.0032440,0.0164350,0.0080058,significant_increase,0.248096689,27,1999
+heart_failure,55-64 years,Kansas,Total,2016,0.0000397,0.0032513,0.0032116,0.0000000,significant_increase,0.056471597,25,1999
+heart_failure,55-64 years,Georgia,Total,2010,0.0000200,0.0032640,0.0032440,0.0000000,significant_increase,0.09691591,27,1999
+heart_failure,65-74 years,California,Female,2014,-0.0008044,0.0032688,0.0040732,0.0000000,significant_increase,0.087518981,27,1999
+heart_failure,55-64 years,Missouri,Total,2009,-0.0006742,0.0032759,0.0039501,0.0000000,significant_increase,0.072835987,27,1999
+heart_failure,65-74 years,Idaho,Total,2012,-0.0007682,0.0032830,0.0040513,0.0006013,significant_increase,0.104641778,22,1999
+heart_failure,65-74 years,Michigan,Female,2011,-0.0023129,0.0032857,0.0055987,0.0000079,significant_increase,0.118944631,27,1999
+heart_failure,65-74 years,Kentucky,Female,2010,-0.0077038,0.0033167,0.0110204,0.0000186,significant_increase,0.158364967,27,1999
+ischemic,55-64 years,Mississippi,Male,2010,-0.0340226,0.0033545,0.0373772,0.2754365,no_significant_change,0.770695995,27,1999
+heart_failure,65-74 years,Maryland,Male,2010,-0.0044539,0.0034001,0.0078540,0.0000000,significant_increase,0.101825612,27,1999
+heart_failure,65-74 years,Florida,Female,2011,-0.0004223,0.0034029,0.0038252,0.0000000,significant_increase,0.076871742,27,1999
+heart_failure,55-64 years,Iowa,Female,2019,0.0010232,0.0034165,0.0023933,0.0246214,significant_increase,0.036063176,12,2000
+heart_failure,55-64 years,North Carolina,Total,2011,-0.0002490,0.0034227,0.0036717,0.0000000,significant_increase,0.068941333,27,1999
+heart_failure,55-64 years,Tennessee,Total,2010,-0.0004463,0.0034297,0.0038761,0.0000000,significant_increase,0.069941755,27,1999
+heart_failure,65-74 years,Connecticut,Total,2011,-0.0027654,0.0034537,0.0062191,0.0000002,significant_increase,0.093732729,27,1999
+ischemic,55-64 years,Mississippi,Total,2010,-0.0263226,0.0035078,0.0298304,0.0746899,no_significant_change,0.536615184,27,1999
+heart_failure,55-64 years,Mississippi,Female,2008,-0.0013107,0.0035155,0.0048262,0.0000000,significant_increase,0.1287403,27,1999
+heart_failure,65-74 years,Oregon,Female,2011,-0.0036602,0.0035439,0.0072042,0.0000044,significant_increase,0.097136997,27,1999
+heart_failure,65-74 years,New Mexico,Male,2011,-0.0021326,0.0035964,0.0057290,0.0007522,significant_increase,0.121083798,27,1999
+heart_failure,65-74 years,Washington,Total,2012,-0.0003273,0.0036219,0.0039492,0.0000000,significant_increase,0.083521791,27,1999
+heart_failure,55-64 years,West Virginia,Male,2013,-0.0006738,0.0036709,0.0043448,0.0000001,significant_increase,0.072225879,27,1999
+heart_failure,65-74 years,Pennsylvania,Total,2010,-0.0033949,0.0036781,0.0070730,0.0000000,significant_increase,0.127420616,27,1999
+heart_failure,55-64 years,Kansas,Male,2016,0.0005650,0.0036826,0.0031175,0.0000023,significant_increase,0.069922622,26,1999
+heart_failure,65-74 years,Texas,Female,2011,-0.0025769,0.0037031,0.0062800,0.0000000,significant_increase,0.131614518,27,1999
+ischemic,55-64 years,Mississippi,Female,2010,-0.0195413,0.0037312,0.0232725,0.0171541,significant_increase,0.320770724,27,1999
+ischemic,65-74 years,Mississippi,Total,2010,-0.0805956,0.0037432,0.0843388,0.2181920,no_significant_change,0.945039736,27,1999
+heart_failure,65-74 years,Illinois,Female,2011,-0.0028828,0.0037914,0.0066742,0.0000000,significant_increase,0.127361065,27,1999
+heart_failure,55-64 years,Arizona,Male,2013,-0.0003670,0.0038016,0.0041686,0.0000000,significant_increase,0.056208131,27,1999
+ischemic,65-74 years,New Mexico,Female,2009,-0.0315970,0.0038533,0.0354503,0.0507795,no_significant_change,0.463267812,27,1999
+heart_failure,55-64 years,Alabama,Female,2014,-0.0010466,0.0038777,0.0049243,0.0000001,significant_increase,0.093429904,27,1999
+heart_failure,65-74 years,New Jersey,Male,2011,-0.0024467,0.0038845,0.0063312,0.0000000,significant_increase,0.119899086,27,1999
+heart_failure,55-64 years,Indiana,Male,2014,-0.0005454,0.0038924,0.0044378,0.0000000,significant_increase,0.080387773,27,1999
+heart_failure,75-84 years,New Hampshire,Female,2006,0.0267681,0.0039291,-0.0228389,0.0189845,significant_increase,0.416451996,27,1999
+heart_failure,75-84 years,South Dakota,Total,2006,-0.0316341,0.0039455,0.0355797,0.1543107,no_significant_change,0.254448512,20,1999
+heart_failure,55-64 years,Alabama,Total,2012,-0.0009697,0.0039934,0.0049631,0.0000000,significant_increase,0.125400452,27,1999
+heart_failure,75-84 years,Maine,Male,2008,-0.0104850,0.0040133,0.0144982,0.0740337,no_significant_change,0.414157522,27,1999
+heart_failure,55-64 years,South Carolina,Male,2011,-0.0002509,0.0040232,0.0042741,0.0000000,significant_increase,0.113757299,27,1999
+heart_failure,65-74 years,New Mexico,Total,2014,-0.0010030,0.0040462,0.0050492,0.0000499,significant_increase,0.103586545,27,1999
+heart_failure,55-64 years,Louisiana,Total,2010,0.0004636,0.0040525,0.0035889,0.0000000,significant_increase,0.120366355,27,1999
+heart_failure,75-84 years,Maryland,Total,2010,-0.0111589,0.0040848,0.0152437,0.0005674,significant_increase,0.290540327,27,1999
+heart_failure,55-64 years,Alabama,Male,2009,-0.0016344,0.0041158,0.0057502,0.0000000,significant_increase,0.159652954,27,1999
+heart_failure,55-64 years,Missouri,Male,2008,-0.0009181,0.0041196,0.0050377,0.0000000,significant_increase,0.093006244,27,1999
+ischemic,65-74 years,Montana,Total,2007,-0.0549643,0.0041227,0.0590870,0.1227132,no_significant_change,0.766891031,27,1999
+heart_failure,65-74 years,Kentucky,Total,2010,-0.0070137,0.0041338,0.0111475,0.0000001,significant_increase,0.194411283,27,1999
+heart_failure,65-74 years,Ohio,Female,2009,-0.0045265,0.0041359,0.0086624,0.0000000,significant_increase,0.129537581,27,1999
+heart_failure,55-64 years,Iowa,Total,2019,0.0017896,0.0041445,0.0023549,0.0080461,significant_increase,0.045912071,10,2012
+heart_failure,65-74 years,Connecticut,Male,2010,-0.0034913,0.0041502,0.0076415,0.0000197,significant_increase,0.119145965,27,1999
+heart_failure,65-74 years,Nevada,Female,2012,-0.0072841,0.0041820,0.0114662,0.0007285,significant_increase,0.094674554,27,1999
+heart_failure,55-64 years,Georgia,Male,2010,0.0009696,0.0042071,0.0032374,0.0000000,significant_increase,0.127193164,27,1999
+heart_failure,75-84 years,Kentucky,Total,2010,-0.0218547,0.0042998,0.0261545,0.0324514,significant_increase,0.605834449,27,1999
+heart_failure,65-74 years,Utah,Female,2014,-0.0014010,0.0043257,0.0057267,0.0053528,significant_increase,0.13483192,27,1999
+ischemic,55-64 years,Montana,Female,2009,-0.0066076,0.0043663,0.0109738,0.0023034,significant_increase,0.209800792,27,1999
+heart_failure,65-74 years,Louisiana,Female,2009,-0.0024520,0.0043978,0.0068497,0.0000002,significant_increase,0.216776213,27,1999
+heart_failure,65-74 years,Washington,Male,2012,-0.0004738,0.0044332,0.0049069,0.0000000,significant_increase,0.098522441,27,1999
+ischemic,85+ years,South Dakota,Male,2019,-0.2346708,0.0044449,0.2391157,0.9658063,no_significant_change,7.930526389,27,1999
+ischemic,65-74 years,Montana,Male,2006,-0.0942601,0.0044999,0.0987600,0.2752340,no_significant_change,1.095256589,27,1999
+heart_failure,65-74 years,Pennsylvania,Male,2009,-0.0046866,0.0045068,0.0091934,0.0000000,significant_increase,0.158794328,27,1999
+heart_failure,65-74 years,Wyoming,Male,2016,-0.0109779,0.0045304,0.0155083,0.0701140,no_significant_change,0.14203933,14,2012
+heart_failure,65-74 years,Florida,Total,2011,0.0002095,0.0046037,0.0043942,0.0000000,significant_increase,0.102686843,27,1999
+heart_failure,65-74 years,Kentucky,Male,2009,-0.0074528,0.0046131,0.0120659,0.0000058,significant_increase,0.234947839,27,1999
+heart_failure,55-64 years,Iowa,Male,2017,0.0021021,0.0046219,0.0025198,0.0000353,significant_increase,0.055779494,14,2012
+heart_failure,65-74 years,Arizona,Female,2013,-0.0018009,0.0046269,0.0064277,0.0000000,significant_increase,0.079566732,27,1999
+heart_failure,55-64 years,Tennessee,Male,2011,-0.0000259,0.0046323,0.0046582,0.0000000,significant_increase,0.089603374,27,1999
+heart_failure,55-64 years,Nebraska,Male,2015,-0.0017202,0.0046371,0.0063573,0.0000060,significant_increase,0.069842074,25,1999
+heart_failure,65-74 years,Michigan,Total,2011,-0.0024799,0.0046553,0.0071353,0.0000000,significant_increase,0.144479106,27,1999
+heart_failure,65-74 years,Oregon,Total,2011,-0.0028113,0.0046667,0.0074781,0.0000000,significant_increase,0.126751854,27,1999
+heart_failure,55-64 years,North Carolina,Male,2012,0.0001713,0.0047044,0.0045331,0.0000000,significant_increase,0.088621965,27,1999
+heart_failure,55-64 years,Arkansas,Total,2009,-0.0027926,0.0047294,0.0075219,0.0000000,significant_increase,0.100404606,27,1999
+heart_failure,65-74 years,Utah,Total,2014,-0.0010338,0.0047484,0.0057822,0.0010061,significant_increase,0.147411137,27,1999
+heart_failure,65-74 years,South Carolina,Female,2013,-0.0029389,0.0047697,0.0077085,0.0000178,significant_increase,0.145209492,27,1999
+heart_failure,65-74 years,California,Total,2013,-0.0005017,0.0048702,0.0053719,0.0000000,significant_increase,0.119049528,27,1999
+ischemic,55-64 years,Maine,Male,2013,-0.0228716,0.0048913,0.0277629,0.0397935,significant_increase,0.390375395,27,1999
+heart_failure,65-74 years,New Mexico,Female,2016,-0.0007034,0.0049088,0.0056122,0.0002840,significant_increase,0.088063623,27,1999
+heart_failure,75-84 years,Maryland,Male,2010,-0.0085389,0.0049703,0.0135092,0.0033703,significant_increase,0.347066468,27,1999
+heart_failure,65-74 years,Nebraska,Total,2010,-0.0058298,0.0049824,0.0108122,0.0000000,significant_increase,0.149685573,27,1999
+heart_failure,75-84 years,Minnesota,Total,2011,-0.0127778,0.0050185,0.0177962,0.0005836,significant_increase,0.345264447,27,1999
+heart_failure,75-84 years,Wisconsin,Male,2012,-0.0081402,0.0050219,0.0131621,0.0127746,significant_increase,0.512778667,27,1999
+heart_failure,75-84 years,South Dakota,Male,2005,-0.0511945,0.0050260,0.0562205,0.0602257,no_significant_change,0.265568624,20,1999
+heart_failure,65-74 years,Virginia,Total,2011,-0.0029046,0.0050329,0.0079375,0.0000000,significant_increase,0.159849384,27,1999
+ischemic,65-74 years,Montana,Female,2009,-0.0291927,0.0050362,0.0342288,0.0343577,significant_increase,0.449278866,27,1999
+heart_failure,65-74 years,Nevada,Total,2011,-0.0082595,0.0050830,0.0133425,0.0000320,significant_increase,0.134028172,27,1999
+ischemic,55-64 years,Oklahoma,Female,2021,-0.0083970,0.0051080,0.0135050,0.4644228,no_significant_change,0.26738029,27,1999
+heart_failure,65-74 years,Texas,Total,2011,-0.0031563,0.0051830,0.0083393,0.0000000,significant_increase,0.167261785,27,1999
+heart_failure,65-74 years,Idaho,Male,2013,-0.0010659,0.0052051,0.0062710,0.0006776,significant_increase,0.125307105,25,1999
+heart_failure,65-74 years,Missouri,Female,2011,-0.0003973,0.0052982,0.0056955,0.0000000,significant_increase,0.150745767,27,1999
+heart_failure,65-74 years,Kansas,Female,2016,-0.0018907,0.0053375,0.0072282,0.0002819,significant_increase,0.116763463,27,1999
+heart_failure,55-64 years,Mississippi,Total,2010,-0.0004244,0.0053985,0.0058229,0.0000000,significant_increase,0.167713517,27,1999
+heart_failure,65-74 years,Mississippi,Female,2013,-0.0031625,0.0054047,0.0085673,0.0015571,significant_increase,0.275952989,27,1999
+heart_failure,65-74 years,Delaware,Male,2015,-0.0027677,0.0054137,0.0081814,0.0800180,no_significant_change,0.143008453,20,1999
+heart_failure,65-74 years,Virginia,Female,2015,-0.0018154,0.0054143,0.0072297,0.0000000,significant_increase,0.129931151,27,1999
+heart_failure,75-84 years,Mississippi,Male,2009,-0.0106973,0.0054411,0.0161384,0.1565606,no_significant_change,1.144433273,27,1999
+heart_failure,75-84 years,Mississippi,Female,2016,-0.0114853,0.0054600,0.0169453,0.3065664,no_significant_change,0.935496006,27,1999
+heart_failure,65-74 years,Illinois,Total,2011,-0.0023916,0.0054618,0.0078534,0.0000000,significant_increase,0.163786039,27,1999
+ischemic,55-64 years,Vermont,Female,2011,-0.0058577,0.0055557,0.0114135,0.0018050,significant_increase,0.16537171,27,1999
+heart_failure,65-74 years,Georgia,Female,2011,-0.0055284,0.0056525,0.0111809,0.0000000,significant_increase,0.183406348,27,1999
+heart_failure,65-74 years,Oregon,Male,2010,-0.0026371,0.0056915,0.0083285,0.0000000,significant_increase,0.159752788,27,1999
+heart_failure,65-74 years,Ohio,Total,2009,-0.0046531,0.0056926,0.0103458,0.0000000,significant_increase,0.156010075,27,1999
+ischemic,55-64 years,Vermont,Male,2005,-0.0325883,0.0057670,0.0383553,0.0346264,significant_increase,0.514484655,27,1999
+heart_failure,55-64 years,Hawaii,Male,2021,-0.0011869,0.0057708,0.0069577,0.1143177,no_significant_change,0.053325619,10,2012
+heart_failure,65-74 years,Louisiana,Total,2009,0.0002435,0.0057915,0.0055480,0.0000006,significant_increase,0.271557288,27,1999
+heart_failure,55-64 years,Louisiana,Male,2009,0.0005972,0.0058248,0.0052275,0.0000000,significant_increase,0.157855317,27,1999
+heart_failure,65-74 years,Kansas,Total,2015,-0.0011669,0.0058252,0.0069921,0.0000002,significant_increase,0.148137984,27,1999
+heart_failure,55-64 years,Arkansas,Male,2010,-0.0023963,0.0058378,0.0082341,0.0000000,significant_increase,0.122103375,27,1999
+heart_failure,65-74 years,Iowa,Female,2012,0.0001561,0.0058633,0.0057072,0.0000000,significant_increase,0.104598051,24,1999
+ischemic,55-64 years,New Mexico,Female,2010,-0.0079745,0.0058698,0.0138443,0.0000219,significant_increase,0.21912614,27,1999
+heart_failure,65-74 years,Florida,Male,2011,0.0009231,0.0060100,0.0050870,0.0000000,significant_increase,0.132493173,27,1999
+ischemic,55-64 years,Vermont,Total,2009,-0.0113628,0.0060326,0.0173954,0.0058096,significant_increase,0.336589935,27,1999
+heart_failure,65-74 years,Rhode Island,Female,2021,-0.0005813,0.0060747,0.0066560,0.1066610,no_significant_change,0.077158399,11,2014
+heart_failure,65-74 years,Nebraska,Female,2015,-0.0032860,0.0061160,0.0094020,0.0000475,significant_increase,0.11768717,27,1999
+heart_failure,65-74 years,Michigan,Male,2011,-0.0027682,0.0061606,0.0089288,0.0000000,significant_increase,0.17260914,27,1999
+heart_failure,65-74 years,New Hampshire,Total,2019,-0.0007352,0.0062271,0.0069622,0.0136834,significant_increase,0.100225866,15,2008
+ischemic,55-64 years,West Virginia,Female,2009,-0.0197571,0.0062427,0.0259999,0.0000085,significant_increase,0.308345592,27,1999
+heart_failure,65-74 years,Alabama,Female,2010,-0.0077777,0.0063259,0.0141036,0.0000000,significant_increase,0.239755614,27,1999
+ischemic,55-64 years,Delaware,Total,2018,-0.0148001,0.0064455,0.0212456,0.1895343,no_significant_change,0.287841844,27,1999
+heart_failure,65-74 years,North Carolina,Female,2012,-0.0017932,0.0064854,0.0082786,0.0000000,significant_increase,0.139641507,27,1999
+heart_failure,65-74 years,Nebraska,Male,2009,-0.0079200,0.0065024,0.0144224,0.0000001,significant_increase,0.18391432,27,1999
+heart_failure,65-74 years,Arizona,Total,2013,-0.0021046,0.0065896,0.0086941,0.0000000,significant_increase,0.107938881,27,1999
+heart_failure,65-74 years,Ohio,Male,2007,-0.0075988,0.0066225,0.0142213,0.0000000,significant_increase,0.185570053,27,1999
+heart_failure,75-84 years,New Hampshire,Total,2006,0.0250175,0.0067530,-0.0182645,0.0002219,significant_increase,0.470345644,27,1999
+heart_failure,75-84 years,New Jersey,Female,2012,-0.0056931,0.0067561,0.0124492,0.0000041,significant_increase,0.339827489,27,1999
+heart_failure,65-74 years,Missouri,Total,2009,-0.0019116,0.0067782,0.0086898,0.0000000,significant_increase,0.191662912,27,1999
+heart_failure,65-74 years,Virginia,Male,2011,-0.0029296,0.0068191,0.0097486,0.0000000,significant_increase,0.193887646,27,1999
+heart_failure,65-74 years,Nevada,Male,2011,-0.0085353,0.0068390,0.0153743,0.0000875,significant_increase,0.176851146,27,1999
+heart_failure,75-84 years,South Dakota,Female,2011,-0.0151254,0.0068482,0.0219736,0.0786294,no_significant_change,0.244396224,25,1999
+heart_failure,65-74 years,Texas,Male,2011,-0.0039516,0.0068526,0.0108042,0.0000000,significant_increase,0.207431121,27,1999
+heart_failure,65-74 years,California,Male,2013,0.0000342,0.0069460,0.0069117,0.0000000,significant_increase,0.154386625,27,1999
+heart_failure,65-74 years,Tennessee,Female,2010,-0.0029466,0.0070044,0.0099510,0.0000000,significant_increase,0.156324791,27,1999
+heart_failure,55-64 years,Oklahoma,Female,2016,0.0004706,0.0071062,0.0066357,0.0000000,significant_increase,0.104944842,27,1999
+heart_failure,65-74 years,Kansas,Male,2015,-0.0002548,0.0071220,0.0073768,0.0000062,significant_increase,0.182005678,27,1999
+ischemic,65-74 years,Mississippi,Male,2010,-0.1090706,0.0071528,0.1162235,0.1179837,no_significant_change,1.354816865,27,1999
+heart_failure,65-74 years,Indiana,Female,2014,-0.0038328,0.0072222,0.0110550,0.0000000,significant_increase,0.157284094,27,1999
+heart_failure,75-84 years,Kentucky,Male,2010,-0.0199501,0.0072652,0.0272152,0.0077392,significant_increase,0.691288124,27,1999
+heart_failure,65-74 years,Illinois,Male,2011,-0.0018949,0.0072702,0.0091651,0.0000000,significant_increase,0.20463858,27,1999
+ischemic,55-64 years,Montana,Total,2009,-0.0132817,0.0073517,0.0206334,0.0002463,significant_increase,0.412689179,27,1999
+heart_failure,65-74 years,North Carolina,Total,2011,-0.0014006,0.0073643,0.0087649,0.0000000,significant_increase,0.174855428,27,1999
+heart_failure,55-64 years,Mississippi,Male,2011,0.0001220,0.0074706,0.0073486,0.0000000,significant_increase,0.209981918,27,1999
+heart_failure,65-74 years,Iowa,Total,2012,0.0002500,0.0074784,0.0072284,0.0000000,significant_increase,0.126667011,24,1999
+heart_failure,65-74 years,Mississippi,Total,2011,-0.0046542,0.0074884,0.0121426,0.0000001,significant_increase,0.347381125,27,1999
+heart_failure,65-74 years,Rhode Island,Male,2021,0.0001687,0.0076187,0.0074500,0.0607507,no_significant_change,0.112453153,14,1999
+heart_failure,75-84 years,Colorado,Male,2009,-0.0162956,0.0076191,0.0239147,0.0007559,significant_increase,0.372158726,27,1999
+heart_failure,75-84 years,Colorado,Total,2010,-0.0144358,0.0076201,0.0220559,0.0000380,significant_increase,0.349437864,27,1999
+heart_failure,65-74 years,South Carolina,Total,2012,-0.0039900,0.0076242,0.0116142,0.0000000,significant_increase,0.19793698,27,1999
+ischemic,55-64 years,West Virginia,Total,2009,-0.0307720,0.0076277,0.0383996,0.0004630,significant_increase,0.503584879,27,1999
+heart_failure,75-84 years,Colorado,Female,2011,-0.0133525,0.0078450,0.0211975,0.0000207,significant_increase,0.330366919,27,1999
+ischemic,75-84 years,Montana,Total,2009,-0.1066131,0.0078472,0.1144603,0.1693405,no_significant_change,1.731934781,27,1999
+heart_failure,65-74 years,Alabama,Total,2010,-0.0078126,0.0078539,0.0156665,0.0000000,significant_increase,0.306530318,27,1999
+heart_failure,65-74 years,Georgia,Total,2011,-0.0048332,0.0078663,0.0126994,0.0000000,significant_increase,0.23708232,27,1999
+heart_failure,65-74 years,Arkansas,Female,2008,-0.0130048,0.0079312,0.0209360,0.0000000,significant_increase,0.20267151,27,1999
+heart_failure,65-74 years,Rhode Island,Total,2021,-0.0019537,0.0082363,0.0101900,0.0111412,significant_increase,0.093771523,10,2014
+heart_failure,65-74 years,Tennessee,Total,2010,-0.0018816,0.0082701,0.0101518,0.0000000,significant_increase,0.181223189,27,1999
+heart_failure,75-84 years,Oregon,Female,2012,-0.0082025,0.0083303,0.0165328,0.0002240,significant_increase,0.401820205,27,1999
+heart_failure,65-74 years,Alabama,Male,2008,-0.0117681,0.0083720,0.0201401,0.0000001,significant_increase,0.384254312,27,1999
+ischemic,55-64 years,New Mexico,Total,2010,-0.0121752,0.0086427,0.0208179,0.0000015,significant_increase,0.413037547,27,1999
+heart_failure,75-84 years,Wisconsin,Total,2012,-0.0086310,0.0087805,0.0174115,0.0000017,significant_increase,0.485349153,27,1999
+ischemic,85+ years,Louisiana,Total,2013,-0.4169200,0.0087938,0.4257138,0.6290239,no_significant_change,4.63134845,27,1999
+heart_failure,65-74 years,Arizona,Male,2013,-0.0024402,0.0088514,0.0112915,0.0000000,significant_increase,0.140214049,27,1999
+heart_failure,75-84 years,Oregon,Total,2010,-0.0095395,0.0088840,0.0184235,0.0000000,significant_increase,0.461293709,27,1999
+heart_failure,65-74 years,North Carolina,Male,2011,-0.0004827,0.0089339,0.0094165,0.0000000,significant_increase,0.215969998,27,1999
+heart_failure,75-84 years,New Jersey,Total,2011,-0.0065768,0.0089845,0.0155614,0.0000000,significant_increase,0.405948173,27,1999
+heart_failure,75-84 years,Washington,Female,2014,-0.0011605,0.0090062,0.0101666,0.0000454,significant_increase,0.302321642,27,1999
+heart_failure,65-74 years,Missouri,Male,2009,-0.0028239,0.0090118,0.0118357,0.0000000,significant_increase,0.237572076,27,1999
+heart_failure,75-84 years,Florida,Female,2012,0.0021132,0.0092334,0.0071202,0.0000000,significant_increase,0.287117006,27,1999
+ischemic,55-64 years,West Virginia,Male,2009,-0.0427132,0.0092390,0.0519523,0.0094762,significant_increase,0.70407435,27,1999
+heart_failure,75-84 years,Michigan,Female,2011,-0.0085739,0.0092593,0.0178333,0.0000000,significant_increase,0.51911604,27,1999
+heart_failure,75-84 years,California,Female,2014,-0.0007814,0.0092886,0.0100699,0.0000013,significant_increase,0.374877028,27,1999
+heart_failure,65-74 years,West Virginia,Male,2017,-0.0007308,0.0093536,0.0100844,0.0013861,significant_increase,0.182428,27,1999
+heart_failure,65-74 years,Tennessee,Male,2009,-0.0016317,0.0093549,0.0109866,0.0000000,significant_increase,0.209792837,27,1999
+heart_failure,65-74 years,Iowa,Male,2012,0.0001053,0.0093587,0.0092535,0.0000000,significant_increase,0.149846577,27,1999
+heart_failure,65-74 years,West Virginia,Total,2017,-0.0028283,0.0093925,0.0122209,0.0000106,significant_increase,0.163688267,27,1999
+heart_failure,75-84 years,Vermont,Total,2015,-0.0059695,0.0093964,0.0153659,0.0143446,significant_increase,0.274548455,14,1999
+ischemic,85+ years,Maine,Total,2011,-0.4194663,0.0094240,0.4288903,0.6094849,no_significant_change,5.67876445,27,1999
+heart_failure,65-74 years,Arkansas,Total,2007,-0.0197473,0.0094268,0.0291741,0.0000000,significant_increase,0.257314593,27,1999
+heart_failure,75-84 years,Georgia,Female,2011,-0.0096129,0.0094311,0.0190439,0.0000452,significant_increase,0.65477342,27,1999
+heart_failure,65-74 years,West Virginia,Female,2017,-0.0047247,0.0094485,0.0141732,0.0001756,significant_increase,0.1465562,27,1999
+heart_failure,65-74 years,New Hampshire,Male,2019,0.0005914,0.0095989,0.0090075,0.0005050,significant_increase,0.130077114,24,1999
+heart_failure,65-74 years,Mississippi,Male,2009,-0.0088775,0.0098161,0.0186936,0.0000020,significant_increase,0.430426616,27,1999
+ischemic,75-84 years,Montana,Male,2009,-0.1527202,0.0098238,0.1625440,0.3130834,no_significant_change,2.34217357,27,1999
+heart_failure,55-64 years,Oklahoma,Total,2016,0.0008028,0.0099141,0.0091113,0.0000000,significant_increase,0.143197659,27,1999
+heart_failure,65-74 years,Indiana,Total,2014,-0.0045208,0.0100146,0.0145354,0.0000000,significant_increase,0.196557087,27,1999
+ischemic,85+ years,Utah,Male,2010,-0.2963875,0.0100416,0.3064291,0.6308437,no_significant_change,5.898991667,27,1999
+heart_failure,65-74 years,Maine,Female,2021,-0.0008309,0.0101309,0.0109618,0.0006308,significant_increase,0.070190889,23,1999
+heart_failure,75-84 years,New Hampshire,Male,2004,0.0302773,0.0101475,-0.0201298,0.0001224,significant_increase,0.533474098,27,1999
+heart_failure,85+ years,Kentucky,Total,2010,-0.0799566,0.0103503,0.0903069,0.2049873,no_significant_change,2.733330143,27,1999
+heart_failure,65-74 years,Georgia,Male,2011,-0.0042006,0.0105454,0.0147460,0.0000000,significant_increase,0.300534233,27,1999
+heart_failure,85+ years,Hawaii,Female,2003,-0.0742822,0.0106228,0.0849050,0.0191766,significant_increase,1.199472562,27,1999
+heart_failure,75-84 years,Oregon,Male,2009,-0.0111407,0.0106844,0.0218250,0.0000001,significant_increase,0.531317353,27,1999
+heart_failure,65-74 years,South Carolina,Male,2011,-0.0060613,0.0108388,0.0169001,0.0000000,significant_increase,0.259835054,27,1999
+ischemic,55-64 years,Montana,Male,2009,-0.0195895,0.0109547,0.0305442,0.0003023,significant_increase,0.618897775,27,1999
+heart_failure,65-74 years,Arkansas,Male,2006,-0.0305614,0.0109809,0.0415423,0.0000000,significant_increase,0.319346185,27,1999
+heart_failure,75-84 years,Connecticut,Female,2012,-0.0027364,0.0110857,0.0138222,0.0000000,significant_increase,0.395854893,27,1999
+ischemic,65-74 years,West Virginia,Male,2011,-0.0958798,0.0112194,0.1070992,0.0355370,significant_increase,1.315231725,27,1999
+heart_failure,85+ years,Hawaii,Total,2003,-0.0630974,0.0113874,0.0744848,0.0054745,significant_increase,1.256621971,27,1999
+heart_failure,75-84 years,Wisconsin,Female,2012,-0.0096099,0.0113966,0.0210066,0.0000006,significant_increase,0.462192344,27,1999
+heart_failure,75-84 years,California,Total,2013,0.0000404,0.0115663,0.0115260,0.0000000,significant_increase,0.433317235,27,1999
+ischemic,55-64 years,New Mexico,Male,2010,-0.0165718,0.0115744,0.0281462,0.0000050,significant_increase,0.619932477,27,1999
+heart_failure,75-84 years,Minnesota,Female,2015,-0.0073646,0.0116232,0.0189879,0.0000002,significant_increase,0.330067269,27,1999
+heart_failure,75-84 years,New Jersey,Male,2010,-0.0088640,0.0116541,0.0205181,0.0000000,significant_increase,0.493854932,27,1999
+heart_failure,75-84 years,Florida,Total,2012,0.0039230,0.0116604,0.0077374,0.0000000,significant_increase,0.339015713,27,1999
+heart_failure,75-84 years,Michigan,Total,2011,-0.0066634,0.0117025,0.0183659,0.0000000,significant_increase,0.587632229,27,1999
+heart_failure,75-84 years,Washington,Total,2013,-0.0003158,0.0117085,0.0120243,0.0000001,significant_increase,0.339192184,27,1999
+heart_failure,65-74 years,Indiana,Male,2013,-0.0063189,0.0118648,0.0181837,0.0000000,significant_increase,0.240087285,27,1999
+heart_failure,75-84 years,Illinois,Female,2011,-0.0058547,0.0122326,0.0180873,0.0000000,significant_increase,0.537998359,27,1999
+heart_failure,75-84 years,Florida,Male,2005,-0.0019596,0.0123699,0.0143295,0.0000000,significant_increase,0.401545691,27,1999
+ischemic,65-74 years,New Mexico,Total,2009,-0.0535835,0.0123744,0.0659579,0.0000008,significant_increase,0.81514668,27,1999
+heart_failure,55-64 years,Oklahoma,Male,2016,0.0011522,0.0127878,0.0116356,0.0000001,significant_increase,0.183007598,27,1999
+heart_failure,75-84 years,Georgia,Total,2011,-0.0097189,0.0131456,0.0228645,0.0000000,significant_increase,0.74455913,27,1999
+heart_failure,75-84 years,Louisiana,Female,2011,-0.0023380,0.0135866,0.0159245,0.0000636,significant_increase,0.790318728,27,1999
+heart_failure,75-84 years,Virginia,Female,2014,-0.0072761,0.0136114,0.0208875,0.0000000,significant_increase,0.508126844,27,1999
+heart_failure,85+ years,Kentucky,Female,2011,-0.0818280,0.0136694,0.0954974,0.1642658,no_significant_change,2.739965381,27,1999
+heart_failure,85+ years,Kentucky,Male,2009,-0.0723113,0.0138563,0.0861675,0.2178288,no_significant_change,2.724321264,27,1999
+heart_failure,75-84 years,Michigan,Male,2011,-0.0042882,0.0142569,0.0185451,0.0000000,significant_increase,0.672408358,27,1999
+heart_failure,75-84 years,Idaho,Male,2010,-0.0050693,0.0142615,0.0193308,0.0000231,significant_increase,0.518253431,27,1999
+heart_failure,75-84 years,Nevada,Total,2012,-0.0280143,0.0142732,0.0422875,0.0016339,significant_increase,0.450468905,27,1999
+heart_failure,75-84 years,California,Male,2012,0.0007830,0.0143802,0.0135972,0.0000000,significant_increase,0.507089649,27,1999
+heart_failure,75-84 years,Pennsylvania,Female,2012,-0.0060094,0.0143845,0.0203938,0.0000000,significant_increase,0.509404621,27,1999
+heart_failure,75-84 years,Washington,Male,2011,-0.0004712,0.0144427,0.0149139,0.0000000,significant_increase,0.38312,27,1999
+heart_failure,75-84 years,Delaware,Male,2014,-0.0064136,0.0146054,0.0210190,0.0058307,significant_increase,0.43718022,27,1999
+heart_failure,75-84 years,Rhode Island,Male,2004,0.0009954,0.0146378,0.0136424,0.0000022,significant_increase,0.45460253,27,1999
+heart_failure,75-84 years,North Dakota,Female,2003,-0.0440107,0.0147423,0.0587530,0.0000043,significant_increase,0.413120086,24,1999
+heart_failure,75-84 years,Arizona,Female,2013,-0.0072329,0.0148246,0.0220575,0.0000000,significant_increase,0.341087635,27,1999
+heart_failure,75-84 years,Connecticut,Total,2012,-0.0035726,0.0149168,0.0184894,0.0000000,significant_increase,0.465931184,27,1999
+ischemic,85+ years,Minnesota,Total,2011,-0.2845725,0.0149170,0.2994895,0.1442928,no_significant_change,4.089438847,27,1999
+heart_failure,75-84 years,Kansas,Total,2018,-0.0029763,0.0150468,0.0180231,0.0024234,significant_increase,0.565189363,27,1999
+heart_failure,75-84 years,Nevada,Female,2013,-0.0266257,0.0150779,0.0417036,0.0026417,significant_increase,0.385557674,27,1999
+heart_failure,65-74 years,Oklahoma,Female,2015,-0.0006038,0.0151110,0.0157147,0.0000009,significant_increase,0.274641567,27,1999
+heart_failure,75-84 years,Virginia,Male,2012,-0.0075895,0.0151437,0.0227331,0.0000005,significant_increase,0.666250754,27,1999
+heart_failure,75-84 years,Rhode Island,Total,2010,0.0039873,0.0151791,0.0111918,0.0000001,significant_increase,0.42382476,27,1999
+heart_failure,75-84 years,Illinois,Total,2011,-0.0047667,0.0151879,0.0199545,0.0000000,significant_increase,0.616087258,27,1999
+heart_failure,75-84 years,Idaho,Total,2011,-0.0054082,0.0152577,0.0206659,0.0000033,significant_increase,0.504299167,27,1999
+heart_failure,75-84 years,Idaho,Female,2011,-0.0072265,0.0155144,0.0227409,0.0000293,significant_increase,0.491662631,27,1999
+heart_failure,75-84 years,Virginia,Total,2014,-0.0060056,0.0156184,0.0216241,0.0000000,significant_increase,0.577858917,27,1999
+heart_failure,75-84 years,Kansas,Male,2018,-0.0014000,0.0157556,0.0171556,0.0051451,significant_increase,0.635668417,27,1999
+heart_failure,75-84 years,Arkansas,Female,2006,-0.0678808,0.0157982,0.0836790,0.0000000,significant_increase,0.740570808,27,1999
+heart_failure,75-84 years,Rhode Island,Female,2012,0.0020990,0.0159108,0.0138118,0.0000038,significant_increase,0.399560162,27,1999
+heart_failure,75-84 years,Pennsylvania,Total,2011,-0.0075390,0.0160608,0.0235998,0.0000000,significant_increase,0.569994642,27,1999
+heart_failure,75-84 years,Georgia,Male,2010,-0.0136182,0.0163374,0.0299555,0.0000000,significant_increase,0.862565902,27,1999
+heart_failure,75-84 years,Nevada,Male,2012,-0.0278793,0.0163870,0.0442662,0.0039939,significant_increase,0.523403004,27,1999
+heart_failure,75-84 years,Vermont,Male,2018,-0.0034087,0.0165145,0.0199233,0.0050914,significant_increase,0.310692677,18,1999
+heart_failure,75-84 years,Maine,Female,2021,-0.0022710,0.0169447,0.0192158,0.0622442,no_significant_change,0.328380375,27,1999
+heart_failure,75-84 years,Delaware,Total,2015,-0.0074384,0.0170104,0.0244487,0.0001239,significant_increase,0.395210427,27,1999
+heart_failure,75-84 years,Missouri,Female,2010,-0.0059826,0.0171105,0.0230931,0.0000000,significant_increase,0.623383549,27,1999
+heart_failure,75-84 years,North Dakota,Total,2003,-0.0572474,0.0171776,0.0744250,0.0000000,significant_increase,0.482185311,23,1999
+heart_failure,65-74 years,Utah,Male,2021,0.0003852,0.0172203,0.0168351,0.0028212,significant_increase,0.160743253,27,1999
+heart_failure,75-84 years,Illinois,Male,2010,-0.0057021,0.0177369,0.0234390,0.0000000,significant_increase,0.717702599,27,1999
+heart_failure,75-84 years,Texas,Female,2016,-0.0056006,0.0178640,0.0234646,0.0000000,significant_increase,0.521591593,27,1999
+heart_failure,75-84 years,Ohio,Female,2009,-0.0190781,0.0181930,0.0372711,0.0000000,significant_increase,0.559743636,27,1999
+heart_failure,75-84 years,Texas,Male,2014,-0.0029919,0.0182748,0.0212667,0.0000000,significant_increase,0.668548384,27,1999
+heart_failure,75-84 years,Nebraska,Male,2011,-0.0207397,0.0184073,0.0391470,0.0000265,significant_increase,0.665192233,27,1999
+heart_failure,75-84 years,Louisiana,Total,2011,0.0034423,0.0184257,0.0149834,0.0000036,significant_increase,0.92306995,27,1999
+heart_failure,75-84 years,Arizona,Total,2013,-0.0062215,0.0187435,0.0249650,0.0000000,significant_increase,0.398692326,27,1999
+heart_failure,75-84 years,Ohio,Total,2008,-0.0216896,0.0187960,0.0404857,0.0000000,significant_increase,0.601631153,27,1999
+heart_failure,75-84 years,North Dakota,Male,2003,-0.0718852,0.0190210,0.0909062,0.0000002,significant_increase,0.560804719,25,1999
+heart_failure,75-84 years,Pennsylvania,Male,2011,-0.0086050,0.0192903,0.0278954,0.0000000,significant_increase,0.648122328,27,1999
+heart_failure,75-84 years,Alabama,Female,2012,-0.0206180,0.0197905,0.0404085,0.0000001,significant_increase,0.902813359,27,1999
+heart_failure,75-84 years,Texas,Total,2016,-0.0036205,0.0198886,0.0235091,0.0000000,significant_increase,0.586557225,27,1999
+heart_failure,75-84 years,Alabama,Total,2010,-0.0247772,0.0198967,0.0446740,0.0000000,significant_increase,1.012436139,27,1999
+heart_failure,75-84 years,South Carolina,Female,2013,-0.0118030,0.0199206,0.0317236,0.0000000,significant_increase,0.593788755,27,1999
+heart_failure,75-84 years,Nebraska,Female,2013,-0.0176279,0.0199704,0.0375984,0.0000006,significant_increase,0.513930023,27,1999
+ischemic,75-84 years,Montana,Female,2013,-0.0628439,0.0203497,0.0831936,0.0096792,significant_increase,1.15827954,27,1999
+heart_failure,75-84 years,North Carolina,Female,2012,-0.0061090,0.0208498,0.0269588,0.0000000,significant_increase,0.554797866,27,1999
+heart_failure,75-84 years,Missouri,Total,2009,-0.0078449,0.0209974,0.0288423,0.0000000,significant_increase,0.720125445,27,1999
+heart_failure,75-84 years,Iowa,Male,2007,-0.0076544,0.0210026,0.0286570,0.0000000,significant_increase,0.509790333,27,1999
+heart_failure,75-84 years,Ohio,Male,2008,-0.0208998,0.0211143,0.0420141,0.0000000,significant_increase,0.656006161,27,1999
+heart_failure,65-74 years,Oklahoma,Total,2016,0.0006325,0.0215404,0.0209080,0.0000002,significant_increase,0.340846237,27,1999
+heart_failure,75-84 years,Iowa,Total,2009,-0.0018404,0.0216528,0.0234932,0.0000000,significant_increase,0.489908276,27,1999
+heart_failure,75-84 years,Arkansas,Total,2006,-0.0720119,0.0219283,0.0939402,0.0000000,significant_increase,0.858930873,27,1999
+heart_failure,75-84 years,Alabama,Male,2008,-0.0367944,0.0220205,0.0588149,0.0000000,significant_increase,1.156778267,27,1999
+heart_failure,75-84 years,Indiana,Female,2014,-0.0129730,0.0220345,0.0350074,0.0000000,significant_increase,0.616542295,27,1999
+heart_failure,75-84 years,South Carolina,Total,2013,-0.0090765,0.0223635,0.0314400,0.0000000,significant_increase,0.668767898,27,1999
+heart_failure,75-84 years,Connecticut,Male,2014,-0.0027414,0.0226948,0.0254363,0.0000000,significant_increase,0.555820402,27,1999
+heart_failure,75-84 years,New Mexico,Female,2020,-0.0021478,0.0230995,0.0252472,0.0015472,significant_increase,0.390617139,27,1999
+heart_failure,75-84 years,Arizona,Male,2013,-0.0051884,0.0233042,0.0284926,0.0000000,significant_increase,0.465432095,27,1999
+heart_failure,85+ years,District of Columbia,Female,2011,-0.0480875,0.0233820,0.0714695,0.0749262,no_significant_change,1.313908093,27,1999
+heart_failure,75-84 years,North Carolina,Total,2012,-0.0046541,0.0234059,0.0280601,0.0000000,significant_increase,0.621403065,27,1999
+heart_failure,85+ years,Maine,Female,2008,-0.0333005,0.0236832,0.0569837,0.0039596,significant_increase,2.277056418,27,1999
+heart_failure,75-84 years,Delaware,Female,2017,-0.0076090,0.0237740,0.0313830,0.0003267,significant_increase,0.360801326,27,1999
+heart_failure,75-84 years,Nebraska,Total,2014,-0.0148686,0.0237909,0.0386596,0.0000000,significant_increase,0.582135548,27,1999
+heart_failure,75-84 years,Louisiana,Male,2011,0.0113859,0.0238134,0.0124275,0.0000182,significant_increase,1.096372077,27,1999
+heart_failure,75-84 years,Iowa,Female,2012,0.0023401,0.0241599,0.0218198,0.0000000,significant_increase,0.473721117,27,1999
+heart_failure,75-84 years,North Carolina,Male,2011,-0.0048230,0.0247139,0.0295370,0.0000000,significant_increase,0.706977077,27,1999
+heart_failure,75-84 years,Indiana,Total,2014,-0.0135501,0.0248626,0.0384127,0.0000000,significant_increase,0.686841747,27,1999
+heart_failure,75-84 years,Tennessee,Female,2012,-0.0036432,0.0250646,0.0287078,0.0000000,significant_increase,0.590366482,27,1999
+heart_failure,75-84 years,West Virginia,Male,2021,-0.0057732,0.0251266,0.0308998,0.0949565,no_significant_change,0.542256004,27,1999
+heart_failure,85+ years,New York,Male,2009,-0.0031023,0.0259498,0.0290521,0.0000007,significant_increase,1.987665263,27,1999
+ischemic,65-74 years,New Mexico,Male,2010,-0.0710953,0.0263298,0.0974251,0.0000000,significant_increase,1.212236336,27,1999
+heart_failure,75-84 years,Utah,Female,2018,0.0001983,0.0264056,0.0262074,0.0101985,significant_increase,0.757092207,27,1999
+heart_failure,75-84 years,Missouri,Male,2009,-0.0085440,0.0269359,0.0354799,0.0000000,significant_increase,0.843135783,27,1999
+heart_failure,65-74 years,Oklahoma,Male,2016,0.0013305,0.0270827,0.0257522,0.0000004,significant_increase,0.415146234,27,1999
+heart_failure,75-84 years,West Virginia,Total,2020,-0.0080711,0.0274036,0.0354748,0.0021904,significant_increase,0.527484517,27,1999
+heart_failure,85+ years,New York,Total,2010,-0.0159390,0.0277907,0.0437297,0.0000000,significant_increase,1.896512984,27,1999
+heart_failure,75-84 years,Indiana,Male,2014,-0.0152156,0.0281946,0.0434102,0.0000000,significant_increase,0.777290734,27,1999
+heart_failure,75-84 years,West Virginia,Female,2019,-0.0107562,0.0282160,0.0389722,0.0028020,significant_increase,0.515041366,27,1999
+heart_failure,75-84 years,Tennessee,Total,2011,-0.0070184,0.0293559,0.0363743,0.0000000,significant_increase,0.645971784,27,1999
+heart_failure,75-84 years,Kansas,Female,2021,-0.0033067,0.0295737,0.0328804,0.0186740,significant_increase,0.508186293,27,1999
+heart_failure,75-84 years,South Carolina,Male,2015,-0.0034849,0.0297106,0.0331956,0.0000000,significant_increase,0.761213772,27,1999
+heart_failure,85+ years,Maryland,Female,2010,-0.0731408,0.0297234,0.1028642,0.0000000,significant_increase,1.526916553,27,1999
+heart_failure,85+ years,New York,Female,2011,-0.0197524,0.0299691,0.0497215,0.0000000,significant_increase,1.847878617,27,1999
+ischemic,85+ years,Louisiana,Female,2014,-0.3999734,0.0310179,0.4309912,0.1121707,no_significant_change,3.95747321,27,1999
+heart_failure,75-84 years,New Mexico,Male,2018,-0.0071915,0.0311908,0.0383823,0.0000196,significant_increase,0.451633557,27,1999
+heart_failure,85+ years,Maryland,Total,2010,-0.0615723,0.0318444,0.0934167,0.0000000,significant_increase,1.5889419,27,1999
+ischemic,85+ years,Maine,Male,2011,-0.4163039,0.0318446,0.4481485,0.2161050,no_significant_change,7.321812016,27,1999
+heart_failure,85+ years,Maine,Total,2008,-0.0321251,0.0319526,0.0640777,0.0000074,significant_increase,2.390721712,27,1999
+heart_failure,75-84 years,Arkansas,Male,2007,-0.0650507,0.0319690,0.0970198,0.0000000,significant_increase,1.008042272,27,1999
+heart_failure,75-84 years,New Mexico,Total,2020,-0.0035699,0.0337579,0.0373278,0.0000094,significant_increase,0.418650121,27,1999
+ischemic,85+ years,Minnesota,Male,2010,-0.3769580,0.0341977,0.4111557,0.0221200,significant_increase,6.049426967,27,1999
+heart_failure,85+ years,Maryland,Male,2010,-0.0331605,0.0345916,0.0677521,0.0000147,significant_increase,1.705081543,27,1999
+heart_failure,75-84 years,Tennessee,Male,2010,-0.0130304,0.0349333,0.0479636,0.0000000,significant_increase,0.716371374,27,1999
+heart_failure,75-84 years,District of Columbia,Female,2021,-0.0028860,0.0354556,0.0383416,0.0077566,significant_increase,0.289543885,22,1999
+heart_failure,75-84 years,Alaska,Total,2021,-0.0092749,0.0358272,0.0451021,0.0476223,significant_increase,0.397373403,13,2004
+heart_failure,75-84 years,Alaska,Male,2021,-0.0094358,0.0393980,0.0488338,0.1263324,no_significant_change,0.466614061,18,2004
+ischemic,85+ years,Delaware,Male,2017,-0.3737190,0.0400827,0.4138016,0.5895888,no_significant_change,7.149708249,27,1999
+heart_failure,75-84 years,District of Columbia,Male,2021,-0.0063723,0.0400899,0.0464622,0.1316452,no_significant_change,0.385692498,16,1999
+heart_failure,85+ years,Maine,Male,2004,-0.0962294,0.0404953,0.1367247,0.0000097,significant_increase,2.585951826,27,1999
+heart_failure,75-84 years,District of Columbia,Total,2021,-0.0047428,0.0407087,0.0454514,0.0553720,no_significant_change,0.335244242,13,1999
+ischemic,85+ years,Oklahoma,Total,2018,-0.4030980,0.0433048,0.4464028,0.4863661,no_significant_change,6.26365652,27,1999
+heart_failure,75-84 years,Oklahoma,Female,2017,-0.0053207,0.0473309,0.0526516,0.0000006,significant_increase,0.85875611,27,1999
+heart_failure,75-84 years,Utah,Male,2020,0.0011026,0.0483044,0.0472018,0.0033540,significant_increase,0.78462834,27,1999
+heart_failure,75-84 years,Oklahoma,Total,2016,-0.0061806,0.0512718,0.0574524,0.0000002,significant_increase,0.97426493,27,1999
+heart_failure,85+ years,Florida,Male,2011,0.0218214,0.0514204,0.0295990,0.0000000,significant_increase,1.788324871,27,1999
+heart_failure,85+ years,Minnesota,Male,2012,-0.0490204,0.0522841,0.1013045,0.0000007,significant_increase,2.542733707,27,1999
+ischemic,85+ years,Montana,Female,2011,-0.2096968,0.0522914,0.2619882,0.0003822,significant_increase,4.002425688,27,1999
+heart_failure,75-84 years,Utah,Total,2021,0.0018452,0.0526944,0.0508492,0.0015787,significant_increase,0.76987757,27,1999
+heart_failure,85+ years,Nevada,Male,2012,-0.1129153,0.0530872,0.1660025,0.0268475,significant_increase,2.141819675,27,1999
+heart_failure,85+ years,Colorado,Male,2010,-0.0400518,0.0552858,0.0953376,0.0000018,significant_increase,2.433991546,27,1999
+heart_failure,85+ years,Minnesota,Total,2012,-0.0468569,0.0558677,0.1027246,0.0000000,significant_increase,2.558063491,27,1999
+heart_failure,85+ years,Massachusetts,Female,2010,-0.0693800,0.0564619,0.1258419,0.0000000,significant_increase,2.868733418,27,1999
+heart_failure,85+ years,Wyoming,Total,2017,-0.0673981,0.0566138,0.1240119,0.0924165,no_significant_change,2.407981192,27,1999
+heart_failure,85+ years,Massachusetts,Male,2008,-0.0448413,0.0576981,0.1025394,0.0000000,significant_increase,3.08028011,27,1999
+heart_failure,85+ years,Minnesota,Female,2012,-0.0461366,0.0578180,0.1039546,0.0000000,significant_increase,2.567416617,27,1999
+heart_failure,85+ years,Florida,Total,2011,0.0077855,0.0578401,0.0500547,0.0000000,significant_increase,1.80737811,27,1999
+heart_failure,85+ years,Arkansas,Female,2005,-0.3331940,0.0584811,0.3916751,0.0000171,significant_increase,3.77949676,27,1999
+heart_failure,85+ years,Massachusetts,Total,2010,-0.0566303,0.0595192,0.1161495,0.0000000,significant_increase,2.942288211,27,1999
+heart_failure,85+ years,Alaska,Total,2013,-0.1050186,0.0607277,0.1657463,0.0014956,significant_increase,2.256339556,17,2006
+heart_failure,85+ years,Nevada,Total,2011,-0.1577891,0.0615690,0.2193581,0.0010412,significant_increase,2.179636405,27,1999
+heart_failure,85+ years,Florida,Female,2011,-0.0000801,0.0616561,0.0617363,0.0000000,significant_increase,1.820564057,27,1999
+heart_failure,75-84 years,Oklahoma,Male,2016,-0.0060197,0.0634360,0.0694557,0.0000022,significant_increase,1.12101367,27,1999
+heart_failure,85+ years,Colorado,Total,2012,-0.0357139,0.0653994,0.1011133,0.0000001,significant_increase,2.575934402,27,1999
+heart_failure,85+ years,Arkansas,Total,2005,-0.3195163,0.0662296,0.3857460,0.0000002,significant_increase,3.778282562,27,1999
+heart_failure,85+ years,Alaska,Male,2013,-0.0963925,0.0665695,0.1629620,0.0106194,significant_increase,2.282177052,17,2006
+heart_failure,85+ years,West Virginia,Male,2018,-0.0371293,0.0669143,0.1040437,0.0095541,significant_increase,2.440275439,27,1999
+heart_failure,85+ years,Wyoming,Female,2017,-0.0832920,0.0671743,0.1504663,0.0574097,no_significant_change,2.354188611,27,1999
+heart_failure,85+ years,Mississippi,Total,2019,-0.0435247,0.0684232,0.1119479,0.0611797,no_significant_change,4.518941257,27,1999
+heart_failure,85+ years,South Dakota,Female,2008,-0.1942303,0.0701690,0.2643993,0.0000000,significant_increase,2.165013606,27,1999
+heart_failure,85+ years,Vermont,Male,2013,-0.0543089,0.0717823,0.1260912,0.0054995,significant_increase,1.863782269,27,1999
+heart_failure,85+ years,Georgia,Female,2010,-0.0423513,0.0720876,0.1144389,0.0000000,significant_increase,3.597325634,27,1999
+heart_failure,85+ years,Nevada,Female,2011,-0.1764773,0.0723977,0.2488750,0.0001706,significant_increase,2.209267805,27,1999
+heart_failure,85+ years,Oregon,Male,2011,-0.0319870,0.0736853,0.1056723,0.0000000,significant_increase,3.002162057,27,1999
+heart_failure,85+ years,Colorado,Female,2013,-0.0334934,0.0740575,0.1075509,0.0000002,significant_increase,2.65975104,27,1999
+heart_failure,85+ years,New Hampshire,Total,2013,0.0506482,0.0747745,0.0241263,0.0000061,significant_increase,2.896116881,27,1999
+heart_failure,85+ years,Mississippi,Female,2019,-0.0555108,0.0757380,0.1312489,0.0865424,no_significant_change,4.476601771,27,1999
+heart_failure,85+ years,Georgia,Total,2010,-0.0378622,0.0773629,0.1152251,0.0000000,significant_increase,3.674484716,27,1999
+heart_failure,85+ years,Alaska,Female,2016,-0.0325910,0.0780523,0.1106432,0.0240325,significant_increase,2.231338016,27,1999
+heart_failure,85+ years,Arkansas,Male,2004,-0.3736590,0.0783173,0.4519763,0.0000000,significant_increase,3.773359259,27,1999
+ischemic,85+ years,Oklahoma,Male,2018,-0.4210051,0.0809012,0.5019063,0.2561049,no_significant_change,7.755365956,27,1999
+heart_failure,85+ years,Washington,Male,2011,0.0019305,0.0811877,0.0792572,0.0000000,significant_increase,2.321340824,27,1999
+heart_failure,85+ years,Oregon,Total,2011,-0.0604844,0.0812813,0.1417657,0.0000000,significant_increase,3.026346825,27,1999
+heart_failure,85+ years,Vermont,Female,2009,-0.0803715,0.0823767,0.1627482,0.0000001,significant_increase,2.514391911,27,1999
+heart_failure,85+ years,Arizona,Male,2013,-0.0062500,0.0841198,0.0903697,0.0000000,significant_increase,2.189951138,27,1999
+heart_failure,85+ years,Oregon,Female,2011,-0.0739749,0.0854417,0.1594167,0.0000000,significant_increase,3.042311005,27,1999
+heart_failure,85+ years,Idaho,Male,2009,-0.0439094,0.0860452,0.1299546,0.0000004,significant_increase,3.125366988,27,1999
+heart_failure,85+ years,Washington,Total,2012,0.0001530,0.0861580,0.0860050,0.0000000,significant_increase,2.437779769,27,1999
+heart_failure,85+ years,Georgia,Male,2010,-0.0268440,0.0862767,0.1131207,0.0000000,significant_increase,3.816935515,27,1999
+heart_failure,85+ years,Louisiana,Female,2013,0.0011940,0.0877466,0.0865526,0.0000131,significant_increase,4.039020532,27,1999
+heart_failure,85+ years,California,Female,2013,0.0025306,0.0884559,0.0859253,0.0000000,significant_increase,2.72524669,27,1999
+heart_failure,85+ years,Alabama,Female,2010,-0.1198252,0.0889354,0.2087606,0.0000000,significant_increase,4.672022711,27,1999
+heart_failure,85+ years,Virginia,Female,2014,-0.0308472,0.0903917,0.1212389,0.0000000,significant_increase,2.986190396,27,1999
+heart_failure,85+ years,Louisiana,Total,2012,0.0113413,0.0911794,0.0798381,0.0000003,significant_increase,4.219180768,27,1999
+heart_failure,85+ years,Alabama,Male,2009,-0.1174538,0.0921338,0.2095875,0.0000002,significant_increase,4.776121481,27,1999
+heart_failure,85+ years,New Jersey,Female,2012,-0.0045202,0.0923607,0.0968809,0.0000000,significant_increase,2.812856821,27,1999
+heart_failure,85+ years,Alabama,Total,2010,-0.1139877,0.0925169,0.2065046,0.0000000,significant_increase,4.707287267,27,1999
+heart_failure,85+ years,South Dakota,Total,2011,-0.1331374,0.0929617,0.2260991,0.0000000,significant_increase,2.06921324,27,1999
+heart_failure,85+ years,Washington,Female,2013,0.0017030,0.0932761,0.0915731,0.0000000,significant_increase,2.508012433,27,1999
+heart_failure,85+ years,Vermont,Total,2013,-0.0437152,0.0953817,0.1390969,0.0000013,significant_increase,2.274242091,27,1999
+heart_failure,85+ years,Arizona,Total,2013,-0.0134850,0.0954564,0.1089414,0.0000000,significant_increase,2.377303817,27,1999
+heart_failure,85+ years,California,Total,2013,0.0081642,0.0959147,0.0877505,0.0000000,significant_increase,2.813308595,27,1999
+heart_failure,85+ years,South Dakota,Male,2012,-0.1206133,0.0970484,0.2176617,0.0003351,significant_increase,1.880153722,27,1999
+heart_failure,85+ years,Idaho,Total,2010,-0.0151144,0.0976382,0.1127526,0.0000000,significant_increase,3.509808654,27,1999
+heart_failure,85+ years,New Hampshire,Male,2014,0.0648121,0.0984406,0.0336285,0.0000000,significant_increase,3.114037206,27,1999
+heart_failure,85+ years,New Mexico,Female,2016,-0.0201101,0.0990656,0.1191756,0.0004684,significant_increase,2.618532571,27,1999
+heart_failure,85+ years,Virginia,Total,2014,-0.0245721,0.1016083,0.1261804,0.0000000,significant_increase,3.105894433,27,1999
+heart_failure,85+ years,Louisiana,Male,2010,0.0318153,0.1017230,0.0699078,0.0000000,significant_increase,4.54681902,27,1999
+heart_failure,85+ years,New Jersey,Total,2012,-0.0011956,0.1037224,0.1049180,0.0000000,significant_increase,2.955932383,27,1999
+heart_failure,85+ years,Arizona,Female,2013,-0.0169083,0.1048276,0.1217359,0.0000000,significant_increase,2.519073569,27,1999
+heart_failure,85+ years,Missouri,Female,2011,-0.0151833,0.1062228,0.1214061,0.0000000,significant_increase,3.549296119,27,1999
+heart_failure,85+ years,California,Male,2013,0.0194620,0.1078360,0.0883740,0.0000000,significant_increase,2.960051712,27,1999
+heart_failure,85+ years,Missouri,Total,2010,-0.0187251,0.1103013,0.1290264,0.0000000,significant_increase,3.660141396,27,1999
+heart_failure,85+ years,Rhode Island,Female,2012,0.0422688,0.1109716,0.0687027,0.0000000,significant_increase,2.631801371,27,1999
+heart_failure,85+ years,Delaware,Female,2014,-0.0418066,0.1110584,0.1528650,0.0000005,significant_increase,2.252231259,27,1999
+heart_failure,85+ years,Virginia,Male,2013,-0.0152734,0.1114169,0.1266903,0.0000000,significant_increase,3.315851727,27,1999
+heart_failure,85+ years,Michigan,Female,2012,-0.0200074,0.1131525,0.1331599,0.0000000,significant_increase,3.722550664,27,1999
+heart_failure,85+ years,Texas,Female,2015,-0.0250985,0.1132964,0.1383949,0.0000000,significant_increase,3.115435266,27,1999
+heart_failure,85+ years,Delaware,Male,2015,-0.0234094,0.1134724,0.1368818,0.0005400,significant_increase,2.468289941,27,1999
+heart_failure,85+ years,Illinois,Female,2012,-0.0275934,0.1149336,0.1425269,0.0000000,significant_increase,3.460402597,27,1999
+heart_failure,85+ years,Michigan,Total,2012,-0.0157988,0.1169580,0.1327568,0.0000000,significant_increase,3.766971437,27,1999
+heart_failure,85+ years,Michigan,Male,2011,-0.0157198,0.1177283,0.1334481,0.0000000,significant_increase,3.848448113,27,1999
+heart_failure,85+ years,Delaware,Total,2015,-0.0311285,0.1207093,0.1518378,0.0000001,significant_increase,2.334523196,27,1999
+heart_failure,85+ years,Texas,Total,2015,-0.0205213,0.1209366,0.1414579,0.0000000,significant_increase,3.164036004,27,1999
+heart_failure,85+ years,Texas,Male,2014,-0.0144952,0.1220196,0.1365148,0.0000000,significant_increase,3.246749779,27,1999
+heart_failure,85+ years,Missouri,Male,2009,-0.0181317,0.1229468,0.1410785,0.0000000,significant_increase,3.862515393,27,1999
+heart_failure,85+ years,New Jersey,Male,2012,0.0061738,0.1237957,0.1176219,0.0000000,significant_increase,3.219781727,27,1999
+heart_failure,85+ years,Illinois,Total,2012,-0.0208791,0.1249413,0.1458204,0.0000000,significant_increase,3.614264859,27,1999
+heart_failure,85+ years,Iowa,Female,2009,-0.0094501,0.1266283,0.1360784,0.0000000,significant_increase,3.045972352,27,1999
+heart_failure,85+ years,West Virginia,Total,2020,-0.0388745,0.1270073,0.1658818,0.0000312,significant_increase,2.596068044,27,1999
+heart_failure,85+ years,Rhode Island,Total,2016,0.0622187,0.1270841,0.0648655,0.0000000,significant_increase,2.702945322,27,1999
+heart_failure,85+ years,Ohio,Female,2009,-0.0912632,0.1274770,0.2187403,0.0000000,significant_increase,3.413978848,27,1999
+ischemic,85+ years,Montana,Total,2014,-0.1628904,0.1274917,0.2903821,0.0000004,significant_increase,5.197951083,27,1999
+heart_failure,85+ years,Pennsylvania,Female,2012,-0.0360416,0.1275665,0.1636081,0.0000000,significant_increase,3.353092987,27,1999
+heart_failure,85+ years,Idaho,Female,2013,0.0093587,0.1276797,0.1183209,0.0000004,significant_increase,3.775368549,27,1999
+heart_failure,85+ years,Illinois,Male,2010,-0.0257429,0.1287563,0.1544992,0.0000000,significant_increase,3.9026305,27,1999
+heart_failure,85+ years,Wisconsin,Total,2015,-0.0204332,0.1333574,0.1537906,0.0000000,significant_increase,3.48021706,27,1999
+heart_failure,85+ years,Ohio,Total,2009,-0.0877191,0.1352677,0.2229867,0.0000000,significant_increase,3.48915568,27,1999
+heart_failure,85+ years,Wyoming,Male,2021,-0.0330573,0.1354634,0.1685207,0.2817251,no_significant_change,2.485516213,27,1999
+heart_failure,85+ years,Iowa,Total,2009,-0.0083028,0.1372119,0.1455147,0.0000000,significant_increase,3.138635204,27,1999
+heart_failure,85+ years,Pennsylvania,Total,2012,-0.0300035,0.1372251,0.1672286,0.0000000,significant_increase,3.482898982,27,1999
+heart_failure,85+ years,North Carolina,Total,2012,-0.0184362,0.1390118,0.1574480,0.0000000,significant_increase,3.340777808,27,1999
+heart_failure,85+ years,North Carolina,Male,2011,-0.0133615,0.1402263,0.1535878,0.0000000,significant_increase,3.433796169,27,1999
+heart_failure,85+ years,Wisconsin,Female,2015,-0.0263289,0.1412792,0.1676080,0.0000000,significant_increase,3.443733284,27,1999
+heart_failure,85+ years,West Virginia,Female,2020,-0.0405079,0.1413567,0.1818646,0.0001098,significant_increase,2.692335417,27,1999
+heart_failure,85+ years,North Carolina,Female,2013,-0.0165278,0.1444191,0.1609470,0.0000000,significant_increase,3.290903108,27,1999
+heart_failure,85+ years,Pennsylvania,Male,2011,-0.0269352,0.1463612,0.1732963,0.0000000,significant_increase,3.732499833,27,1999
+heart_failure,85+ years,South Carolina,Female,2013,-0.0432678,0.1480256,0.1912933,0.0000000,significant_increase,3.435830359,27,1999
+heart_failure,85+ years,Rhode Island,Male,2020,0.0821568,0.1491662,0.0670094,0.0007519,significant_increase,2.849002881,27,1999
+heart_failure,85+ years,Ohio,Male,2009,-0.0764912,0.1498991,0.2263903,0.0000000,significant_increase,3.629245645,27,1999
+heart_failure,85+ years,South Carolina,Total,2013,-0.0378795,0.1528580,0.1907375,0.0000000,significant_increase,3.538137645,27,1999
+ischemic,85+ years,Montana,Male,2014,-0.1820540,0.1539617,0.3360158,0.0003891,significant_increase,7.008371157,27,1999
+heart_failure,85+ years,Utah,Male,2012,0.0017982,0.1627094,0.1609112,0.0000000,significant_increase,5.289753347,27,1999
+heart_failure,85+ years,Iowa,Male,2010,0.0122028,0.1650940,0.1528912,0.0000000,significant_increase,3.317530145,27,1999
+heart_failure,85+ years,Tennessee,Male,2011,-0.0169060,0.1665326,0.1834386,0.0000000,significant_increase,3.325385598,27,1999
+heart_failure,85+ years,Wisconsin,Male,2018,0.0017325,0.1678689,0.1661364,0.0000003,significant_increase,3.546785087,27,1999
+heart_failure,85+ years,District of Columbia,Total,2021,-0.0314817,0.1698070,0.2012887,0.0033354,significant_increase,1.294817311,22,1999
+heart_failure,85+ years,Indiana,Total,2016,-0.0454899,0.1763896,0.2218795,0.0000000,significant_increase,3.662586588,27,1999
+heart_failure,85+ years,Tennessee,Total,2012,-0.0163148,0.1767650,0.1930798,0.0000000,significant_increase,3.460383793,27,1999
+heart_failure,85+ years,Nebraska,Female,2015,-0.0694212,0.1772608,0.2466820,0.0000000,significant_increase,3.752399505,27,1999
+heart_failure,85+ years,Tennessee,Female,2012,-0.0203923,0.1790865,0.1994788,0.0000000,significant_increase,3.535985209,27,1999
+heart_failure,85+ years,New Mexico,Male,2020,0.0030240,0.1792030,0.1761790,0.0001519,significant_increase,2.491879689,27,1999
+heart_failure,85+ years,Connecticut,Male,2012,0.0013731,0.1797492,0.1783761,0.0000000,significant_increase,3.977088631,27,1999
+heart_failure,85+ years,Oklahoma,Female,2015,-0.0817778,0.1810422,0.2628201,0.0000000,significant_increase,3.97756764,27,1999
+heart_failure,85+ years,New Mexico,Total,2020,-0.0039489,0.1824084,0.1863573,0.0000952,significant_increase,2.567668843,27,1999
+heart_failure,85+ years,South Carolina,Male,2015,-0.0084396,0.1873829,0.1958225,0.0000000,significant_increase,3.71456094,27,1999
+heart_failure,85+ years,Indiana,Male,2016,-0.0375868,0.1879456,0.2255324,0.0000000,significant_increase,3.835396365,27,1999
+heart_failure,85+ years,Connecticut,Total,2013,-0.0111894,0.1884417,0.1996311,0.0000000,significant_increase,3.707528233,27,1999
+heart_failure,85+ years,Utah,Total,2012,-0.0194958,0.1928161,0.2123119,0.0000000,significant_increase,5.787171539,27,1999
+heart_failure,85+ years,Indiana,Female,2017,-0.0430661,0.1959093,0.2389754,0.0000000,significant_increase,3.5726536,27,1999
+heart_failure,85+ years,Nebraska,Total,2016,-0.0625066,0.2002646,0.2627712,0.0000000,significant_increase,3.703983345,27,1999
+heart_failure,85+ years,Connecticut,Female,2014,-0.0125202,0.2009579,0.2134781,0.0000000,significant_increase,3.561963378,27,1999
+heart_failure,85+ years,Nebraska,Male,2016,-0.0646710,0.2020257,0.2666967,0.0000007,significant_increase,3.625827254,27,1999
+heart_failure,85+ years,Oklahoma,Total,2016,-0.0668993,0.2137397,0.2806390,0.0000000,significant_increase,4.005357675,27,1999
+heart_failure,85+ years,District of Columbia,Male,2021,-0.0441614,0.2144972,0.2586586,0.0053365,significant_increase,1.256030758,22,1999
+heart_failure,85+ years,Utah,Female,2012,-0.0289997,0.2168373,0.2458370,0.0000000,significant_increase,6.150382692,27,1999
+heart_failure,85+ years,Oklahoma,Male,2016,-0.0486853,0.2263602,0.2750456,0.0000000,significant_increase,4.060165771,27,1999
+heart_failure,85+ years,Kansas,Male,2020,-0.0264688,0.2560848,0.2825537,0.0000016,significant_increase,3.442480224,27,1999
+heart_failure,85+ years,Kansas,Total,2020,-0.0367550,0.2732547,0.3100097,0.0000000,significant_increase,3.473696437,27,1999
+heart_failure,85+ years,Kansas,Female,2020,-0.0409336,0.2816014,0.3225349,0.0000000,significant_increase,3.492116002,27,1999
+heart_failure,85+ years,North Dakota,Total,2020,0.0159139,0.3119563,0.2960423,0.0000019,significant_increase,3.136412302,27,1999
+heart_failure,85+ years,North Dakota,Female,2021,0.0173589,0.3206426,0.3032837,0.0000595,significant_increase,2.946285823,27,1999
+heart_failure,85+ years,North Dakota,Male,2020,0.0197675,0.4286769,0.4089094,0.0000021,significant_increase,3.501246192,27,1999
